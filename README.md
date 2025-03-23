@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0016-3sum-closest) |
+| [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Union Find
@@ -159,9 +161,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
