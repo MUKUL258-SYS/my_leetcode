@@ -12,7 +12,7 @@ struct State{
 
         for(int i=0;i<n;i++){
             q.push({1<<i,i,0});
-            vis.insert((1<<i)*12+i);
+            vis.insert((1<<i)*11+i);
         }
         while(!q.empty()){
             State f=q.front();
@@ -20,7 +20,7 @@ struct State{
             if(f.mask==maxsize)return f.dist;
             for(auto nei:graph[f.node]){
                int new_mask=(f.mask)|(1<<nei);
-               int h_value=new_mask*12+nei;
+               int h_value=new_mask*11+nei;
                if(vis.find(h_value)==vis.end()){
                     q.push({new_mask,nei,f.dist+1});
                     vis.insert(h_value);
