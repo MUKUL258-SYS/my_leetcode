@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0224-basic-calculator) |
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
 ## Ordered Set
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 ## Divide and Conquer
 |  |
