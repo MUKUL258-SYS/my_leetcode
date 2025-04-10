@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Trie
 |  |
 | ------- |
