@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2228-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2228-watering-plants-ii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2228-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2228-watering-plants-ii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [2228-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2228-watering-plants-ii) |
 ## Geometry
 |  |
 | ------- |
