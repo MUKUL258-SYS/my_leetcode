@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3817-maximum-containers-on-a-ship](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
 ## Queue
 |  |
 | ------- |
