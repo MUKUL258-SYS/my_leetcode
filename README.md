@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0968-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-beautiful-array) |
+| [1306-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0016-3sum-closest) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1306-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
