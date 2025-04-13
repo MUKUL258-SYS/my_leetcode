@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3795-zero-array-transformation-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Two Pointers
 |  |
 | ------- |
