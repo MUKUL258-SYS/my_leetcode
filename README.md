@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
 | [1403-palindrome-partitioning-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Union Find
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
