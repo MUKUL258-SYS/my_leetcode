@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0258-add-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Hash Table
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0258-add-digits) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2228-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2228-watering-plants-ii) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Geometry
 |  |
 | ------- |
