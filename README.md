@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1306-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0801-is-graph-bipartite) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0801-is-graph-bipartite) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
