@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
+| [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-palindrome-partitioning-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
