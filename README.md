@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-palindrome-partitioning-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [3709-find-special-substring-of-length-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
 ## Monotonic Stack
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
 ## Combinatorics
 |  |
