@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-task-scheduler-ii) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Shortest Path
 |  |
 | ------- |
@@ -474,10 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Counting Sort
 |  |
 | ------- |
