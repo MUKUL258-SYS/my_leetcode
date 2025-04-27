@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
 ## Counting
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
