@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2803-modify-graph-edge-weights](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
 | ------- |
