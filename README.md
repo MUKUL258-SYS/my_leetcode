@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3795-zero-array-transformation-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-zero-array-transformation-iv) |
@@ -562,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Memoization
+|  |
+| ------- |
+| [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 <!---LeetCode Topics End-->
