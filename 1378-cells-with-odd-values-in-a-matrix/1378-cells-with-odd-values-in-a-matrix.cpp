@@ -1,19 +1,19 @@
 class Solution {
 public:
-    int oddCells(int m, int n, vector<vector<int>>& indices) {
-        vector<vector<int>>arr(m,vector<int>(n,0));
+    int oddCells(int n, int m, vector<vector<int>>& indices) {
+        vector<bool>rows(n,false);
+        vector<bool>cols(m,false);
         for(auto i:indices){
-            int x=i[0];
-            int y=i[1];
-            for(int j=0;j<n;j++)arr[x][j]++;
-            for(int j=0;j<m;j++)arr[j][y]++;
+            int row=i[0];
+            int col=i[1];
+            rows[row]=rows[row]^true;
+            cols[col]=cols[col]^true;
         }
-        int cnt=0;
-        for(auto &i:arr){
-            for(auto &j:i){
-              if(j&1)cnt++;
-            }
-        }
-        return cnt;
+        int r=0;
+        int c=0;
+        for(int i=0;i<n;i++)if(rows[i])r++;
+        for(int i=0;i<m;i++)if(cols[i])c++;
+        return r*m+c*n-(2*r*c);
+
     }
 };
