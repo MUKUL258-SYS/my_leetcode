@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-zero-array-transformation-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
+| [3822-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3822-fill-a-special-grid) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
+| [3822-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3822-fill-a-special-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-beautiful-array) |
+| [3822-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3822-fill-a-special-grid) |
 ## Tree
 |  |
 | ------- |
