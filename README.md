@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0377-combination-sum-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0864-image-overlap](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0864-image-overlap) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
 | [0089-gray-code](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
