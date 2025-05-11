@@ -13,7 +13,7 @@ int dfs(int i,int j,int p,vector<int>&arr1,vector<int>&arr2,int take){
         tuke=1+dfs(i+1,j+1,arr2[j],arr1,arr2,1);
     }
     if(arr1[i]>p){
-        notake=dfs(i+1,j+1,arr1[i],arr1,arr2,0);
+        notake=dfs(i+1,j,arr1[i],arr1,arr2,0);
     }
     return dp[i][j][take]=min(tuke,notake);
 }
