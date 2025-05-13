@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0377-combination-sum-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0576-out-of-boundary-paths) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
 | [0089-gray-code](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Minimum Spanning Tree
 |  |
