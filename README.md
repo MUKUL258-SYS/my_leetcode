@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0229-majority-element-ii) |
 | [0377-combination-sum-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0377-combination-sum-iv) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
