@@ -1,29 +1,28 @@
 class Solution {
 public:
+vector<vector<int>>grid;
+vector<vector<bool>>vis;
+int dp[51][51][2510];
+int n;
+int dfs(int i,int j,int t){
+      if(i<0||j<0||i>=n||j>=n||vis[i][j])return INT_MAX;
+      if(i==n-1&&j==n-1)return t+max(0,grid[i][j]-t);
+      if(dp[i][j][t]!=-1)return dp[i][j][t];
+      int ans=INT_MAX;
+      vis[i][j]=true;
+      ans=min(ans,dfs(i+1,j,t+max(0,grid[i][j]-t)));
+       ans=min(ans,dfs(i,j+1,t+max(0,grid[i][j]-t)));
+        ans=min(ans,dfs(i-1,j,t+max(0,grid[i][j]-t)));
+         ans=min(ans,dfs(i,j-1,t+max(0,grid[i][j]-t)));
+         vis[i][j]=false;
+         return dp[i][j][t]=ans;
+      
+}
     int swimInWater(vector<vector<int>>& grid) {
-        int n = grid.size();
-        vector<vector<bool>> visited(n, vector<bool>(n, false));
-        priority_queue<vector<int>, vector<vector<int>>, greater<>> pq;
-        
-        pq.push({grid[0][0], 0, 0}); // {time, x, y}
-        vector<vector<int>> dirs = {{0,1},{0,-1},{1,0},{-1,0}};
-        
-        while (!pq.empty()) {
-            int t = pq.top()[0];
-            int x=pq.top()[1];
-            int y=pq.top()[2];
-            pq.pop();
-            if (visited[x][y]) continue;
-            visited[x][y] = true;
-            if (x == n-1 && y == n-1) return t;
-            
-            for (auto& d : dirs) {
-                int nx = x + d[0], ny = y + d[1];
-                if (nx >= 0 && nx < n && ny >= 0 && ny < n && !visited[nx][ny]) {
-                    pq.push({max(t, grid[nx][ny]), nx, ny});
-                }
-            }
-        }
-        return -1; // Should never happen
+        this->grid=grid;
+         n=grid.size();
+        memset(dp,-1,sizeof(dp));
+        vis.resize(n+5,vector<bool>(n+5,false));
+        return dfs(0,0,0);
     }
 };
