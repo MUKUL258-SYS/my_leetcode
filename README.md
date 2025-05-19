@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0258-add-digits) |
 | [0372-super-pow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0382-linked-list-random-node) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0492-construct-the-rectangle) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0576-out-of-boundary-paths) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 ## Heap (Priority Queue)
 |  |
