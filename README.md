@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
+| [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
@@ -434,12 +435,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
+| [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
+| [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
