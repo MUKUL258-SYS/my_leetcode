@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-palindrome-partitioning-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
+| [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
