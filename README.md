@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0593-valid-square) |
 | [1003-minimum-area-rectangle-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1003-minimum-area-rectangle-ii) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Prefix Sum
 |  |
 | ------- |
