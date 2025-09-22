@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
