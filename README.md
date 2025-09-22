@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2694-find-the-maximum-divisibility-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
 ## Binary Indexed Tree
 |  |
