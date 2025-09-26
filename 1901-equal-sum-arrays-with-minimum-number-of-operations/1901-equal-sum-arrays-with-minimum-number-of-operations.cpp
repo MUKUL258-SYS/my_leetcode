@@ -21,11 +21,11 @@ int solver(vector<int>&nums1,vector<int>&nums2,int s1,int s2){
         c2=6-nums2[j];
     }
     if(c1>=c2){
-      s1=s1-nums1[i]+1;
+      s1-=(c1);
       i--;
     }
     else{
-        s2=s2+6-nums2[j];
+        s2+=(c2);
         j++;
     }
     ops++;
