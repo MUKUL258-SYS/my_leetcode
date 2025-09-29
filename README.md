@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
