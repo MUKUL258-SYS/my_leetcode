@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-rabbits-in-forest) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0864-image-overlap](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0864-image-overlap) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1018-largest-perimeter-triangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
