@@ -1,16 +1,31 @@
 class Solution {
 public:
     vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
-        vector<pair<double,pair<int,int>>>v;
         int n=arr.size();
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                double val=((1.0*arr[i])/arr[j]);
-                v.push_back({val,{arr[i],arr[j]}});
+        double left=0.0,right=1.0;
+        while(left<right){
+            double mid=(left+right)/2;
+            double maxFraction=0.0;
+            int tsmallf=0,nidx=0,didx=0;
+            int j=1;
+            for(int i=0;i<n-1;i++){
+                while(j<n&&arr[i]>=mid*arr[j])j++;
+                tsmallf+=(n-j);
+                if(j==n)break;
+                double f=static_cast<double>(arr[i])/arr[j];
+                if(f>maxFraction){
+                    nidx=i;
+                    didx=j;
+                    maxFraction=f;
+                }
+
             }
-        }
-        sort(v.begin(),v.end());
-        if(v.size()<k)return {};
-        return {v[k-1].second.first,v[k-1].second.second};
+                if(tsmallf==k)return {arr[nidx],arr[didx]};
+                else if(tsmallf>k)right=mid;
+                else left=mid;
+
+
+            }
+        return {};
     }
 };
