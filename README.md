@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2048-build-array-from-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
