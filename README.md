@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0227-basic-calculator-ii) |
+| [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
 | [0730-count-different-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
 | [0797-rabbits-in-forest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
