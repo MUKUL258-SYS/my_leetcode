@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0409-longest-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
 | [0730-count-different-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
@@ -778,5 +779,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 <!---LeetCode Topics End-->
