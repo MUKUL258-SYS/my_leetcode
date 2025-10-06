@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0229-majority-element-ii) |
+| [0506-relative-ranks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0506-relative-ranks) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
