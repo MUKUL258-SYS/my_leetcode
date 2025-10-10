@@ -18,6 +18,7 @@ void dfs(int i,vector<int>&temp){
         temp[j]+=arr[i];
         dfs(i+1,temp);
         temp[j]-=arr[i];
+        if(temp[j]==0)break;
      }
 }
     int distributeCookies(vector<int>& cookies, int k) {
