@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
 | [1306-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1364-tuple-with-same-product) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1306-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1332-count-vowels-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1332-count-vowels-permutation) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1470-tweet-counts-per-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
