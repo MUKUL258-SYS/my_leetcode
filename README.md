@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2574-count-subarrays-with-median-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2574-count-subarrays-with-median-k) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
 | ------- |
