@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2228-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2228-watering-plants-ii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
