@@ -1,25 +1,45 @@
 class Solution {
 public:
-int dp[1005][1005];
-int dfs(int curr_idx,int prev_idx,vector<pair<int,int>>&vp){
-    if(curr_idx>=vp.size())return 0;
-    if(dp[curr_idx][prev_idx+1]!=-1)return dp[curr_idx][prev_idx+1];
-    int pick=0;
-    if(prev_idx==-1||vp[curr_idx].second>=vp[prev_idx].second){
-    pick=vp[curr_idx].second+dfs(curr_idx+1,curr_idx,vp);
-    }
-    int notpick=dfs(curr_idx+1,prev_idx,vp);
-    return dp[curr_idx][prev_idx+1]=max(pick,notpick);
+int n;
+ vector<pair<int,int>>v;
+/*int dfs(int prev,int curr){
+ if(curr>=n)return 0;
+ int take=0;
+ int notake=0;
+ if(prev==-1){
+    take=v[curr].second+dfs(prev+1,curr+1);
+    notake=dfs(prev+1,curr+1);
+ }
+ else{
 
+    if(v[curr].second>=v[prev].second)take=v[curr].second+dfs(curr,curr+1);
+      notake=dfs(prev,curr+1);
+ }
+return max(take,notake);
 }
+*/
+int dp[1005][1005];
+int dfs(int prev, int curr) {
+    if (curr >= n) return 0;
+    if (dp[prev + 1][curr] != -1) return dp[prev + 1][curr];
+
+    int take = 0, notake = 0;
+    if (prev == -1 || v[curr].second >= v[prev].second)
+        take = v[curr].second + dfs(curr, curr + 1);
+
+    notake = dfs(prev, curr + 1);
+
+    return dp[prev + 1][curr] = max(take, notake);
+}
+
     int bestTeamScore(vector<int>& scores, vector<int>& ages) {
-        int n=ages.size();
-        vector<pair<int,int>>vp;
-        memset(dp,-1,sizeof(dp));
-        for(int i=0;i<n;i++){
-            vp.push_back({ages[i],scores[i]});
-        }
-        sort(vp.begin(),vp.end());
-         return dfs(0,-1,vp);
+   //   vector<pair<int,int>>v;
+   memset(dp,-1,sizeof(dp));
+       n=scores.size();
+      for(int i=0;i<n;i++){
+        v.push_back({ages[i],scores[i]});
+      }  
+      sort(v.begin(),v.end());
+return dfs(-1,0);
     }
 };
