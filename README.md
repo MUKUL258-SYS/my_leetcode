@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1983-maximum-population-year](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1983-maximum-population-year](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1983-maximum-population-year) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1983-maximum-population-year](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1983-maximum-population-year) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
