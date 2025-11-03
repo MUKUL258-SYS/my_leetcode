@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
 | [1652-minimum-suffix-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1879-maximum-score-from-removing-stones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1652-minimum-suffix-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
