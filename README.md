@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3822-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3822-fill-a-special-grid) |
 | [3831-find-x-value-of-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Stack
 |  |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
