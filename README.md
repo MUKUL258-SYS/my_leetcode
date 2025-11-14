@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2455-node-with-highest-edge-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2455-node-with-highest-edge-score) |
