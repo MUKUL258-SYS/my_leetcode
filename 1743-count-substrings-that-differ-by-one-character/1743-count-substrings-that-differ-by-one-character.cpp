@@ -3,23 +3,20 @@ public:
     int countSubstrings(string s, string t) {
         int n=s.size();
         int m=t.size();
-        int cnt=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                int x=i;
-                int y=j;
-                int d=0;
-                while(x<n&&y<m){
-                    if(s[x]!=t[y]){
-                       d++;
-                    }
-                    if(d==1)cnt++;
-                    if(d==2)break;
-                    x++;
-                    y++;
+        int ans=0;
+        vector<vector<int>>same(n+1,vector<int>(m+1,0));
+        vector<vector<int>>different(n+1,vector<int>(m+1,0));
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(s[i-1]==t[j-1]){
+                    same[i][j]=(1+same[i-1][j-1]);
+                    different[i][j]=different[i-1][j-1];
                 }
+                else
+                    different[i][j]=1+same[i-1][j-1];
+                  ans+=different[i][j];
             }
         }
-        return cnt;
+        return ans;
     }
 };
