@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3795-zero-array-transformation-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3729-unit-conversion-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 ## Breadth-First Search
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Trie
 |  |
 | ------- |
@@ -896,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Binary Tree
 |  |
 | ------- |
