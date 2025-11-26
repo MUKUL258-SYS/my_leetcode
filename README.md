@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2109-adding-spaces-to-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -908,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1983-maximum-population-year](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1983-maximum-population-year) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
