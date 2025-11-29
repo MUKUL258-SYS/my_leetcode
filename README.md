@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
