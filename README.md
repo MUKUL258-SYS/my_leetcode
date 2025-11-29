@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Hash Table
 |  |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Shortest Path
 |  |
@@ -1071,12 +1075,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Counting Sort
 |  |
