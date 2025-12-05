@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3709-find-special-substring-of-length-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-find-special-substring-of-length-k) |
+| [3714-longest-balanced-substring-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
+| [3714-longest-balanced-substring-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3639-zero-array-transformation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
+| [3714-longest-balanced-substring-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
