@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3583-count-special-triplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3583-count-special-triplets) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
