@@ -1,14 +1,14 @@
 class Solution {
 public:
 int nodes,k;
-void dfs(int u,vector<vector<pair<int,int>>>&adj,vector<int>&vis,int time){
+void dfs(int u,vector<vector<pair<int,int>>>&adj,vector<int>&vis,int t){
      vis[u]=1;
      for(auto &i:adj[u]){
         int nei=i.first;
 
-        int t=i.second;
-        if(!vis[nei]&&time<t){
-            dfs(nei,adj,vis,time);
+        int time=i.second;
+        if(!vis[nei]&&time>t){
+            dfs(nei,adj,vis,t);
         }
      }
 }
