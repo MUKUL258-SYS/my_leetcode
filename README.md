@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3531-count-covered-buildings) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3731-find-missing-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3729-unit-conversion-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Number Theory
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
