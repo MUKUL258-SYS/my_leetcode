@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3795-zero-array-transformation-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -942,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Matrix
 |  |
