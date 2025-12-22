@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-maximize-distance-to-closest-person](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0957-prison-cells-after-n-days](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0963-three-equal-parts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0963-three-equal-parts) |
 | [0968-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-beautiful-array) |
 | [0986-interval-list-intersections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0986-interval-list-intersections) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0956-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0956-number-of-music-playlists) |
+| [0957-prison-cells-after-n-days](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0963-three-equal-parts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0963-three-equal-parts) |
 | [0968-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-beautiful-array) |
 | [1003-minimum-area-rectangle-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1003-minimum-area-rectangle-ii) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0815-bus-routes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0815-bus-routes) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
+| [0957-prison-cells-after-n-days](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0957-prison-cells-after-n-days](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1022-unique-paths-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-unique-paths-iii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
