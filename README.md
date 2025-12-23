@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2109-adding-spaces-to-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
@@ -1169,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1983-maximum-population-year](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1983-maximum-population-year) |
+| [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
