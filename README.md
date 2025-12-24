@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
