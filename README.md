@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1389-create-target-array-in-the-given-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0258-add-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1449-print-words-vertically](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1449-print-words-vertically) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
