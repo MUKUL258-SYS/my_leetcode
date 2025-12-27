@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2478-longest-nice-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2478-longest-nice-subarray) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
+| [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2455-node-with-highest-edge-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -1016,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -1182,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2228-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2228-watering-plants-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-task-scheduler-ii) |
 | [2587-design-memory-allocator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2587-design-memory-allocator) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
