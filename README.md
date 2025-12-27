@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [3194-find-words-containing-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3194-find-words-containing-character) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3597-partition-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3597-partition-string) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Trie
 |  |
