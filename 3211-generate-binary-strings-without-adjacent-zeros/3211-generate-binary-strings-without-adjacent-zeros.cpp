@@ -6,18 +6,14 @@ void dfs(int i,string temp,int n,int last){
      v.push_back(temp);
         return ;
     }
-    if(last==-1){
-           //temp+='0';
-           dfs(i+1,temp+'0',n,0);
-          dfs(i+1,temp+'1',n,1);
-    }
-    else if(last==0){
-        dfs(i+1,temp+'1',n,1);
-    }
-    else{
-        dfs(i+1,temp+'1',n,1);
-        dfs(i+1,temp+'0',n,0);
-    }
+   temp.push_back('1');
+   dfs(i+1,temp,n,1);
+   temp.pop_back();
+   if(last!=0){
+    temp.push_back('0');
+    dfs(i+1,temp,n,0);
+    temp.pop_back();
+   }
 }
     vector<string> validStrings(int n) {
         string temp="";
