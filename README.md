@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-maximize-distance-to-closest-person](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0934-shortest-bridge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0934-shortest-bridge) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0957-prison-cells-after-n-days](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0801-is-graph-bipartite) |
+| [0934-shortest-bridge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0801-is-graph-bipartite) |
 | [0815-bus-routes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0815-bus-routes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0934-shortest-bridge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0934-shortest-bridge) |
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0864-image-overlap](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0864-image-overlap) |
+| [0934-shortest-bridge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-unique-paths-iii) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
