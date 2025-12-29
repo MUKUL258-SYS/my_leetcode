@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0801-is-graph-bipartite) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0801-is-graph-bipartite) |
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
