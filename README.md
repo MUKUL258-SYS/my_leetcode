@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-maximum-binary-tree-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
@@ -1210,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-maximum-binary-tree-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Simulation
