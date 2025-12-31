@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1983-maximum-population-year](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2035-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2035-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2035-count-sub-islands) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -955,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
@@ -1092,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2035-count-sub-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
