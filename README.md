@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0179-largest-number) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0089-gray-code) |
 | [0223-rectangle-area](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0224-basic-calculator) |
