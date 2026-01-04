@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1368,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2478-longest-nice-subarray) |
