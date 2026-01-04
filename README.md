@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1390-four-divisors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1390-four-divisors) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1390-four-divisors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1390-four-divisors) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
