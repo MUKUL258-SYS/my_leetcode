@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1449-print-words-vertically](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1449-print-words-vertically) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1459-apply-discount-every-n-orders](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1472-design-browser-history](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
