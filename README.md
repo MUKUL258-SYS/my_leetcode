@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0120-triangle) |
 | [0279-perfect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0279-perfect-squares) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0227-basic-calculator-ii) |
@@ -1040,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -1143,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0463-island-perimeter) |
