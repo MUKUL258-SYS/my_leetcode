@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3100-water-bottles-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -1338,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-task-scheduler-ii) |
 | [2587-design-memory-allocator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2587-design-memory-allocator) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3100-water-bottles-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3100-water-bottles-ii) |
 | [3597-partition-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3597-partition-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
