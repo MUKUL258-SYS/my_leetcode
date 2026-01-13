@@ -78,7 +78,9 @@ double calculatearea(double midy){
            high=max(high,y+l);
         }
         double halfarea=totalarea/2.0;
-        for(int i=0;i<100;i++){
+        const double epsilon=1e-5;  
+
+        while(high-low>epsilon){
             double mid=(high-low)/2.0+low;
             if(calculatearea(mid)>=halfarea){
                 high=mid;
