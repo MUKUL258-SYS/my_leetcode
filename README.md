@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
+| [3453-separate-squares-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3453-separate-squares-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1043,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3453-separate-squares-i) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3709-design-exam-scores-tracker](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3733-minimum-time-to-complete-all-deliveries) |
