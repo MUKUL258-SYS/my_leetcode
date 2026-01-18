@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0279-perfect-squares) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0684-redundant-connection) |
 | [0752-open-the-lock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0752-open-the-lock) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
