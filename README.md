@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1095-two-city-scheduling) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1138-grumpy-bookstore-owner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1095-two-city-scheduling) |
+| [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1288-remove-covered-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -900,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
+| [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1364-tuple-with-same-product) |
