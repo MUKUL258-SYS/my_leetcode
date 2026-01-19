@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1835-decode-xored-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1835-decode-xored-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -1418,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1895-largest-magic-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1895-largest-magic-square) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1983-maximum-population-year](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1983-maximum-population-year) |
 | [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
