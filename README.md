@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3606-coupon-code-validator) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3194-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3531-count-covered-buildings) |
