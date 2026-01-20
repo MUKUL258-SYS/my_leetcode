@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
+| [3790-smallest-all-ones-multiple](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3817-maximum-containers-on-a-ship](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3831-find-x-value-of-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-smallest-all-ones-multiple](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
