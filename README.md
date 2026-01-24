@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3795-zero-array-transformation-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
+| [3804-number-of-centered-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 | [3822-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3822-fill-a-special-grid) |
 | [3831-find-x-value-of-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3831-find-x-value-of-array-i) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-smallest-all-ones-multiple](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
 | [3803-count-residue-prefixes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3803-count-residue-prefixes) |
+| [3804-number-of-centered-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1499,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3804-number-of-centered-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Queue
 |  |
