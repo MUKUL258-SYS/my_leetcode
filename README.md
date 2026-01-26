@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1138-grumpy-bookstore-owner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
+| [1200-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1095-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
+| [1200-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1288-remove-covered-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
