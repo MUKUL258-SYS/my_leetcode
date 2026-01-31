@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0752-open-the-lock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0752-open-the-lock) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
