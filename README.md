@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1530,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
