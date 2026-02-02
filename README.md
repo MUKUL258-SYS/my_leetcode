@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0463-island-perimeter) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
@@ -1341,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -1419,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -1608,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Minimum Spanning Tree
