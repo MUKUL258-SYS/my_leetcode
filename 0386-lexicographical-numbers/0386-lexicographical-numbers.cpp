@@ -1,15 +1,22 @@
 class Solution {
 public:
+vector<int>res;
+int n;
+void dfs(long long current){
+    if(current>n)return ;
+     res.push_back(current);
+   for(int i=0;i<=9;i++){
+    int temp=current*10+i;
+    if(temp>n)break;
+   // res.push_back(temp);
+    dfs(temp);
+   }
+}
     vector<int> lexicalOrder(int n) {
-        vector<string>v;
-        for(int i=1;i<=n;i++){
-         v.push_back(to_string(i));
+        this->n=n;
+        for(int i=1;i<=min(n,9);i++){
+                dfs(i);
         }
-        sort(v.begin(),v.end());
-        vector<int>vp;
-        for(auto i:v){
-            vp.push_back(stoi(i));
-        }
-        return vp;
+        return res;
     }
 };
