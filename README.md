@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3795-zero-array-transformation-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
@@ -1550,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3804-number-of-centered-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3804-number-of-centered-subarrays) |
