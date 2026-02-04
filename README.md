@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3531-count-covered-buildings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3531-count-covered-buildings) |
+| [3537-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3537-fill-a-special-grid) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3537-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3537-fill-a-special-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3665-twisted-mirror-path-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1337,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0372-super-pow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-beautiful-array) |
+| [3537-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3822-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3822-fill-a-special-grid) |
