@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1775-design-an-ordered-stream](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
