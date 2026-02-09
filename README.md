@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1895-largest-magic-square) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-tweet-counts-per-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1472-design-browser-history](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1472-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1775-design-an-ordered-stream) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
