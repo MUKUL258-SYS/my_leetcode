@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1541,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-count-subarrays-with-median-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
+| [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
