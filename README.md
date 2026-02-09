@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3454-separate-squares-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3531-count-covered-buildings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3606-coupon-code-validator) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
