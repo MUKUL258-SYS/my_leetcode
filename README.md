@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
+| [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
 | [2574-count-subarrays-with-median-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2587-design-memory-allocator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2587-design-memory-allocator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
+| [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -1445,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1552,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
 | [2574-count-subarrays-with-median-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
@@ -1589,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
