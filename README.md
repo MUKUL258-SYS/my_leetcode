@@ -910,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3709-find-special-substring-of-length-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-find-special-substring-of-length-k) |
+| [3713-longest-balanced-substring-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
+| [3713-longest-balanced-substring-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1435,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3583-count-special-triplets) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
+| [3713-longest-balanced-substring-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1603,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3713-longest-balanced-substring-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
