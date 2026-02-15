@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0089-gray-code) |
 | [0223-rectangle-area](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0224-basic-calculator) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0179-largest-number) |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0089-gray-code) |
 | [0756-pyramid-transition-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
@@ -1503,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
