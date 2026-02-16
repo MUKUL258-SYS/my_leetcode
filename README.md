@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1360,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-unique-paths-iii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
