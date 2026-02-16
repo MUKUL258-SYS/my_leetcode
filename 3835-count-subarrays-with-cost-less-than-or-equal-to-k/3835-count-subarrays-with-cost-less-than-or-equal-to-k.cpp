@@ -15,13 +15,16 @@ public:
                 s.erase({nums[i],i});
                 i++;
             }
-            int maxi=(*s.rbegin()).first;
-            int mini=(*s.begin()).first;
-            long long cost=1ll*(maxi-mini)*(j-i+1);
-            if(cost<=k){
+            //int maxi=(*s.rbegin()).first;
+            //int mini=(*s.begin()).first;
+            //long long cost=1ll*(maxi-mini)*(j-i+1);
+           /* if(cost<=k){
                 long long len=(j-i+1);
                  ans+=len;
             }
+            */
+             long long len=(j-i+1);
+                 ans+=len;
         }
         return ans;
 
