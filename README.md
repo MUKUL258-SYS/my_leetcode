@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0696-count-binary-substrings) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0986-interval-list-intersections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0986-interval-list-intersections) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0730-count-different-palindromic-subsequences) |
