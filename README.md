@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1459-apply-discount-every-n-orders](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1472-design-browser-history](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1459-apply-discount-every-n-orders](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1470-tweet-counts-per-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
@@ -1453,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0229-majority-element-ii) |
 | [1364-tuple-with-same-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1364-tuple-with-same-product) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
