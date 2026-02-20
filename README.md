@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0761-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0761-special-binary-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0752-open-the-lock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0761-special-binary-string) |
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -1411,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0372-super-pow) |
+| [0761-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0761-special-binary-string) |
 | [0968-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3537-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3537-fill-a-special-grid) |
