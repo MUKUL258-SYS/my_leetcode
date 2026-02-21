@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0738-monotone-increasing-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0804-rotated-digits) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
@@ -1251,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
