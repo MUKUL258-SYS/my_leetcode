@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3669-balanced-k-factor-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3669-balanced-k-factor-decomposition) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3669-balanced-k-factor-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3669-balanced-k-factor-decomposition) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
 ## Hash Table
 |  |
@@ -1406,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3669-balanced-k-factor-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3669-balanced-k-factor-decomposition) |
 ## Trie
 |  |
 | ------- |
