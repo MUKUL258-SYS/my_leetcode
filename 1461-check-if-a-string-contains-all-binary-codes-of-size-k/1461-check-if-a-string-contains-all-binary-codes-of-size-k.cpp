@@ -1,19 +1,24 @@
+constexpr int N=1<<20;
+bitset<N> seen;
 class Solution {
 public:
-
-    bool hasAllCodes(string s, int k) {
-        
-       unordered_map<string,int> mp;
-        string temp;
-        int n=s.size();
-       for(int i=0;i+k-1<n;i++){
-        temp=s.substr(i,k);
-        mp[temp]++;
-       }
-     long long value=pow(2,k);
-     long long m=mp.size();
-     if(m==value)return true;
-     else return false;  
-        
+    bool hasAllCodes(string& s, int k) {
+        const int n=s.size();
+        if (n<k) return 0;
+        unsigned mask=0;
+        const int M=(1<<(k-1))-1;
+        seen.reset();
+        for(int i=0; i<k; i++) //MSB
+            mask=(mask<<1)+(s[i]-'0');
+        seen[mask]=1;
+    //    cout<<mask<<", ";
+        for(int l=0, r=k; r<n; r++){
+            mask&=M;
+            mask<<=1;
+            mask|=(s[r]-'0');
+            seen[mask]=1;
+    //        cout<<mask<<", ";
+        }
+        return seen.count()==(1<<k);
     }
 };
