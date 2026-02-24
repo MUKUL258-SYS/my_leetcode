@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
+| [1922-count-good-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2029-stone-game-ix) |
@@ -1258,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0224-basic-calculator) |
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1922-count-good-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Bit Manipulation
 |  |
