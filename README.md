@@ -906,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1403-palindrome-partitioning-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1403-palindrome-partitioning-iii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1449-print-words-vertically](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1449-print-words-vertically) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1293,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1589,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1449-print-words-vertically](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1449-print-words-vertically) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
