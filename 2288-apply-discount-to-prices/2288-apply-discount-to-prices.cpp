@@ -13,7 +13,7 @@ bool isPrice(string word){
         double discountPrice;
         string result;
         ostringstream oss;
-        while(str>>word){
+        while(getline(str,word,' ')){
             if(isPrice(word)){
                 word.erase(0,1);
                 if(!word.empty()){
