@@ -941,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2211-count-collisions-on-a-road](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2288-apply-discount-to-prices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
