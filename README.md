@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3606-coupon-code-validator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3640-trionic-array-ii) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3623-count-number-of-trapezoids-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3669-balanced-k-factor-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3669-balanced-k-factor-decomposition) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3597-partition-string) |
 | [3606-coupon-code-validator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3668-restore-finishing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
@@ -1656,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
 | ------- |
