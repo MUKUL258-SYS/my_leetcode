@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3100-water-bottles-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3100-water-bottles-ii) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
@@ -1033,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
