@@ -948,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
