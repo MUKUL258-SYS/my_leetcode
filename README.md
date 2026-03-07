@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0372-super-pow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0382-linked-list-random-node) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0337-house-robber-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0474-ones-and-zeroes) |
@@ -1470,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
