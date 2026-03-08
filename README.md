@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3606-coupon-code-validator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3606-coupon-code-validator) |
+| [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3637-trionic-array-i) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
+| [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3729-unit-conversion-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3729-unit-conversion-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 ## Graph
@@ -1144,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3583-count-special-triplets) |
 | [3597-partition-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3597-partition-string) |
 | [3606-coupon-code-validator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3606-coupon-code-validator) |
+| [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3668-restore-finishing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3668-restore-finishing-order) |
@@ -1236,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
@@ -1415,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
@@ -1878,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1890,4 +1897,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 <!---LeetCode Topics End-->
