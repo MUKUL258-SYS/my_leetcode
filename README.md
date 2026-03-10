@@ -820,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1095-two-city-scheduling) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
+| [1328-break-a-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1328-break-a-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1328-break-a-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1328-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1403-palindrome-partitioning-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1403-palindrome-partitioning-iii) |
