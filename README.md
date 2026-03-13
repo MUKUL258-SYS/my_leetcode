@@ -954,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1403-palindrome-partitioning-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1449-print-words-vertically](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1449-print-words-vertically) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1508,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-iterator-for-combination](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-iterator-for-combination) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
