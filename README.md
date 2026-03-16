@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3583-count-special-triplets) |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2587-design-memory-allocator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2587-design-memory-allocator) |
+| [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 | [3709-design-exam-scores-tracker](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
@@ -1269,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
@@ -1320,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3453-separate-squares-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3454-separate-squares-ii) |
+| [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3709-design-exam-scores-tracker](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3733-minimum-time-to-complete-all-deliveries) |
@@ -1824,6 +1829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
