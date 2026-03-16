@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1095-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1288-remove-covered-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1290-make-array-strictly-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1290-make-array-strictly-increasing) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1034-coloring-a-border) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-numbers-with-same-consecutive-differences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1034-coloring-a-border](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1034-coloring-a-border) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
@@ -951,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
+| [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1286-iterator-for-combination](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-iterator-for-combination) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1103,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
+| [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1364-tuple-with-same-product) |
@@ -1935,6 +1941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 ## Iterator
