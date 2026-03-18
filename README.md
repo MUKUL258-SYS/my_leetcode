@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -1517,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3537-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3537-fill-a-special-grid) |
@@ -1782,6 +1784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
