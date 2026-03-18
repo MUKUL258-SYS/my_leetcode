@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3606-coupon-code-validator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3637-trionic-array-i) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3729-unit-conversion-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3729-unit-conversion-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 ## Graph
@@ -1514,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3537-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3537-fill-a-special-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
@@ -1961,6 +1965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Iterator
 |  |
 | ------- |
