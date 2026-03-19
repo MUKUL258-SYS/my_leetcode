@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3817-maximum-containers-on-a-ship](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3831-find-x-value-of-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3831-find-x-value-of-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Depth-First Search
 |  |
