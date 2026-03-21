@@ -10,15 +10,13 @@ public:
               cnt++;
             }
             else{
-                maxi=max(maxi,cnt);
+                //maxi=max(maxi,cnt);
                 cnt=1;
             }
-           // cout<<cnt<<endl;
+          maxi=max(maxi,cnt);
         }
 
-        if(s[n-1]-s[n-2]==1){
-            maxi=max(maxi,cnt);
-        }
+        
         return maxi;
     }
 };
