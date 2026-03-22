@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
+| [2059-minimum-operations-to-convert-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2035-count-sub-islands) |
+| [2059-minimum-operations-to-convert-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
