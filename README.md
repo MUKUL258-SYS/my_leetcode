@@ -1065,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3163-string-compression-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3163-string-compression-iii) |
 | [3194-find-words-containing-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3194-find-words-containing-character) |
@@ -1222,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
