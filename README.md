@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
+| [1600-throne-inheritance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1600-throne-inheritance) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -1181,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
+| [1600-throne-inheritance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1600-throne-inheritance) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1459-apply-discount-every-n-orders](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1470-tweet-counts-per-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1472-design-browser-history](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1472-design-browser-history) |
+| [1600-throne-inheritance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1600-throne-inheritance) |
 | [1775-design-an-ordered-stream](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
@@ -1671,6 +1674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1600-throne-inheritance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1600-throne-inheritance) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
