@@ -939,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximum-score-after-binary-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3858-minimum-bitwise-or-from-grid) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximum-score-after-binary-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3803-count-residue-prefixes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3803-count-residue-prefixes) |
 | [3805-count-caesar-cipher-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
