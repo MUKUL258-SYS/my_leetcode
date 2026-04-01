@@ -1,33 +1,29 @@
 class Solution {
 public:
+//unrodered_set<string>st;
 string s;
-int maxi;
-void dfs(int idx,unordered_map<string,int>&mp){
+int dfs(int idx,unordered_set<string>&st){
     int n=s.size();
     if(idx>=n){
-        //maxi=max(maxi,mp.size());
-        int sz=0;
-        for(auto i:mp){
-            sz+=i.second>0?1:0;
-        }
-        maxi=max(maxi,sz);
-        return ;
+        return 0;
     }
-    string temp="";
-    for(int j=idx;j<n;j++){
-     temp+=s[j];
-     if(mp[temp]>0)continue;
-     mp[temp]++;
-     dfs(j+1,mp);
-     mp[temp]=0;
-    }
+    int cnt=0;
+    
+    for(int len=1;len+idx<=n;len++){
+        string temp=s.substr(idx,len);
+        if(st.find(temp)==st.end()){
+            st.insert(temp);
+        cnt=max(cnt,1+dfs(idx+len,st));
+            st.erase(temp);
 
+        }
+
+    }
+    return cnt;
 }
     int maxUniqueSplit(string s) {
-        unordered_map<string,int>mp;
-        maxi=0;
+        unordered_set<string>st;
         this->s=s;
-dfs(0,mp);    
-return maxi;
+        return dfs(0,st);
     }
 };
