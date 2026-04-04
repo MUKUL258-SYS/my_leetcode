@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
 | [0667-beautiful-arrangement-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0735-asteroid-collision) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
 | [0647-palindromic-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1466,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0401-binary-watch) |
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -1635,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0401-binary-watch) |
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -1775,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -2043,6 +2048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## String Matching
