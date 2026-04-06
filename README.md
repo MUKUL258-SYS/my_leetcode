@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2029-stone-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1980-find-unique-binary-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
@@ -1533,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [2029-stone-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2029-stone-game-ix) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Heap (Priority Queue)
 |  |
