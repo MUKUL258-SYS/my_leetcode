@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0721-accounts-merge) |
 | [0770-couples-holding-hands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0770-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1705,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
@@ -1810,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
