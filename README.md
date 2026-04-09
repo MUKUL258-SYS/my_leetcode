@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2621-find-xor-beauty-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
