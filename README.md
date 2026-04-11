@@ -944,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2288-apply-discount-to-prices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2288-apply-discount-to-prices) |
@@ -1931,6 +1933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2145-count-the-hidden-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
