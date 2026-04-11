@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3831-find-x-value-of-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
