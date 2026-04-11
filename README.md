@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0840-magic-squares-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0845-longest-mountain-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0864-image-overlap](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0864-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0874-walking-robot-simulation) |
 | [0879-maximize-distance-to-closest-person](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-maximize-distance-to-closest-person) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0696-count-binary-substrings) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0845-longest-mountain-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0986-interval-list-intersections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0986-interval-list-intersections) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0799-champagne-tower) |
 | [0804-rotated-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0804-rotated-digits) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0845-longest-mountain-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -1976,6 +1979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1291-sequential-digits) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
