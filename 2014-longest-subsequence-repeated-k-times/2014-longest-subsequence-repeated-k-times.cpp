@@ -109,7 +109,7 @@ public:
         }
 
         for(int i = 25; i >= 0; i--) {
-            if(canUse[i] == false || requiredFreq[i] == 0)
+            if(requiredFreq[i] == 0)
                 continue;
             
             //DO
