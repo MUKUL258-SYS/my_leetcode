@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2105-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2105-watering-plants-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1980-find-unique-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1980-find-unique-binary-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -1256,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1980-find-unique-binary-string) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1700,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -1782,6 +1786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1983-maximum-population-year](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1983-maximum-population-year) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2029-stone-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2029-stone-game-ix) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -1997,6 +2002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1925-count-square-sum-triples](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
