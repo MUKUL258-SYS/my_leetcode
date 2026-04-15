@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1121,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2564-substring-xor-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2564-substring-xor-queries) |
