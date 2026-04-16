@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3454-separate-squares-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3488-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
@@ -1312,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3488-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3453-separate-squares-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3709-design-exam-scores-tracker](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-design-exam-scores-tracker) |
