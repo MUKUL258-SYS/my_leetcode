@@ -5,6 +5,7 @@ unordered_set<int>st;
 string s;
 string t;
 int dp[3006][3006];
+int NEG=INT_MIN;
 int dfs(int i,int j){
     int n=s.size();
     int m=t.size();
@@ -12,16 +13,24 @@ int dfs(int i,int j){
         if(j==m){
             return 0;
         }
-        return INT_MIN;
+        return NEG;
     }
     //2 options
     if(dp[i][j]!=-1)return dp[i][j];
-    int maxi=INT_MIN;
-    maxi=max(maxi,st.contains(i)+dfs(i+1,j));
-    if(s[i]==t[j]){
-        maxi=max(maxi,dfs(i+1,j+1));
-    }
-    return dp[i][j]=maxi;
+    int ans=NEG;
+     int take = dfs(i + 1, j);
+        if (take != NEG) {
+            ans = max(ans, (int)st.count(i) + take);
+        }
+
+        // OPTION 2: match pattern character
+        if (j < m && s[i] == t[j]) {
+            int match = dfs(i + 1, j + 1);
+            if (match != NEG) {
+                ans = max(ans, match);
+            }
+        }
+    return dp[i][j]=ans;
 
 }
     int maxRemovals(string source, string pattern, vector<int>& tt) {
