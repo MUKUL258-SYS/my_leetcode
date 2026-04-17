@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-string-compression-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3163-string-compression-iii) |
 | [3194-find-words-containing-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3194-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
@@ -1311,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
