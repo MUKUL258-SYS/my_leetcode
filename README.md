@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3790-smallest-all-ones-multiple](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3805-count-caesar-cipher-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3817-maximum-containers-on-a-ship](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3817-maximum-containers-on-a-ship) |
