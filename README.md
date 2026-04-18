@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0840-magic-squares-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0864-image-overlap](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0864-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0874-walking-robot-simulation) |
 | [0879-maximize-distance-to-closest-person](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-maximize-distance-to-closest-person) |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
