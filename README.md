@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-decode-xored-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1835-decode-xored-permutation) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
