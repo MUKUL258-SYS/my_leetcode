@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1503-reducing-dishes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1580,6 +1581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
@@ -1813,6 +1815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1600-throne-inheritance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1600-throne-inheritance) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -1891,6 +1894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2741-special-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2741-special-permutations) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
@@ -2048,6 +2052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1291-sequential-digits) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
