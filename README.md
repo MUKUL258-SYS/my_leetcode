@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -1305,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
