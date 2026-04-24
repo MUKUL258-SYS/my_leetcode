@@ -998,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
@@ -1155,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -1318,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2455-node-with-highest-edge-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -1422,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2211-count-collisions-on-a-road](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
