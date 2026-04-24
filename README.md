@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1429,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1520,6 +1522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1555,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
