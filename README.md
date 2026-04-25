@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3668-restore-finishing-order) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3698-split-array-with-minimum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3698-split-array-with-minimum-difference) |
 | [3707-find-the-most-common-response](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3707-find-the-most-common-response) |
 | [3709-design-exam-scores-tracker](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-design-exam-scores-tracker) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3731-find-missing-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3675-minimum-operations-to-transform-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
@@ -2264,6 +2267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Iterator
 |  |
 | ------- |
