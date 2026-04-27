@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
@@ -1729,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -2274,6 +2278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0721-accounts-merge) |
 | [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
