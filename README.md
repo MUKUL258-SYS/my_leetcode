@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3282-reach-end-of-array-with-max-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1377,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3488-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -2083,6 +2087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
@@ -2129,6 +2134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
