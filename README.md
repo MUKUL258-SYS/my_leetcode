@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-special-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3152-special-array-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3194-find-words-containing-character) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
