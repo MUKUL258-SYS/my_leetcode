@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
@@ -1779,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
