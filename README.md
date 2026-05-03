@@ -1026,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2126-destroying-asteroids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1190,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2109-adding-spaces-to-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
@@ -1476,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2211-count-collisions-on-a-road](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
