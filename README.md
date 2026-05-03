@@ -1133,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0761-special-binary-string) |
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
+| [0796-rotate-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0916-decoded-string-at-index](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0916-decoded-string-at-index) |
@@ -2264,6 +2265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0796-rotate-string) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Data Stream
