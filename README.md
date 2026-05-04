@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-minimum-suffix-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1879-maximum-score-from-removing-stones) |
