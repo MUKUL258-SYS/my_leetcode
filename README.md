@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0089-gray-code) |
@@ -1758,6 +1760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
