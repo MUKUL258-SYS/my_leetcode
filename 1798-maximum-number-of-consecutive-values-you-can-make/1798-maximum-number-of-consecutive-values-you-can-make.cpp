@@ -10,6 +10,7 @@ public:
             if(sum+1>=coins[i]){
                sum+=coins[i];
             }
+            else break;
              
         }
         return sum+1;
