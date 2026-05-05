@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0986-interval-list-intersections) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -1485,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1856-maximum-subarray-min-product) |
@@ -1568,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1470-tweet-counts-per-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -1620,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
