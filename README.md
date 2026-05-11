@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1946-largest-number-after-mutating-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1946-largest-number-after-mutating-substring) |
@@ -1803,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -2060,6 +2062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2105-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2105-watering-plants-ii) |
