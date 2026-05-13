@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-count-good-meals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1711-count-good-meals) |
@@ -1369,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1711-count-good-meals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1711-count-good-meals) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1775-design-an-ordered-stream](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1775-design-an-ordered-stream) |
@@ -2121,6 +2123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1856-maximum-subarray-min-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1856-maximum-subarray-min-product) |
