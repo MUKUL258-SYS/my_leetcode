@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0739-daily-temperatures) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0788-rotated-digits) |
@@ -1563,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -2239,6 +2242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -2344,11 +2348,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Union-Find
