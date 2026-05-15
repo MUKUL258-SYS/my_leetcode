@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2621-find-xor-beauty-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2621-find-xor-beauty-of-array) |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0258-add-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -1409,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-task-scheduler-ii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2564-substring-xor-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2564-substring-xor-queries) |
 | [2574-count-subarrays-with-median-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2574-count-subarrays-with-median-k) |
