@@ -900,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3249-count-the-number-of-good-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3249-count-the-number-of-good-nodes) |
+| [3310-remove-methods-from-project](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3310-remove-methods-from-project](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
@@ -2376,6 +2378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3310-remove-methods-from-project](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 ## Rolling Hash
