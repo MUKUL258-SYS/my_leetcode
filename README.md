@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
 | [0667-beautiful-arrangement-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
