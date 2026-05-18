@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3660-jump-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3668-restore-finishing-order) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3640-trionic-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3640-trionic-array-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3660-jump-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
