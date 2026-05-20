@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2621-find-xor-beauty-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -1445,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-design-memory-allocator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2587-design-memory-allocator) |
 | [2615-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -1742,6 +1744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2621-find-xor-beauty-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2741-special-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2741-special-permutations) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
