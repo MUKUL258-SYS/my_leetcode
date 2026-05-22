@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1274,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
@@ -1455,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1933,6 +1936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0386-lexicographical-numbers) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3597-partition-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3597-partition-string) |
 ## Divide and Conquer
