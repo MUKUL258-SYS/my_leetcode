@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2906-construct-product-matrix) |
+| [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1106,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -1824,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -1892,6 +1896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2906-construct-product-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2906-construct-product-matrix) |
+| [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
