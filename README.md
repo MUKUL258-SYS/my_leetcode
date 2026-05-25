@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2288-apply-discount-to-prices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -2393,6 +2396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## String Matching
