@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-special-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3152-special-array-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1484,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -2170,6 +2172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3100-water-bottles-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3100-water-bottles-ii) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3379-transformed-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
