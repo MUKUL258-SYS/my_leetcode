@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
 | [3152-special-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3152-special-array-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
@@ -1905,6 +1907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
