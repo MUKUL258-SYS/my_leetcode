@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-minimum-cost-to-split-into-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -1379,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3669-balanced-k-factor-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3669-balanced-k-factor-decomposition) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Hash Table
 |  |
 | ------- |
