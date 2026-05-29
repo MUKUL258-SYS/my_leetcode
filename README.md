@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3282-reach-end-of-array-with-max-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
