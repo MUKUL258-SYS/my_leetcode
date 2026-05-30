@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3904-smallest-stable-index-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
@@ -2279,6 +2280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3904-smallest-stable-index-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Combinatorics
 |  |
 | ------- |
