@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -2484,6 +2486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
