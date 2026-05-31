@@ -1,21 +1,27 @@
 class Solution {
 public:
     int maxSubstrings(string word) {
+        unordered_map<char,int>mp;
         int n=word.size();
-        vector<int>v(26,-1);
         int cnt=0;
         for(int i=0;i<n;i++){
-            int idx=word[i]-'a';
-            if(v[idx]!=-1){
-                if(i-v[idx]+1>=4){
-                  cnt++;
-                  for(int i=0;i<26;i++)v[i]=-1;
-                }
-            }else{
-                v[idx]=i;
+            if(mp[word[i]]==0){
+                //cout<<i<<endl;
+                mp[word[i]]=i+1;
+            }
+            else{
+               int v=mp[word[i]];
+               v--;
+               if((i-v+1)>=4){
+                //cout<<i<<" "<<v<<endl;
+                mp.clear();
+               // mp[word[i]]=i+1;
+                cnt++;
+               }
+
             }
         }
         return cnt;
-        
+
     }
 };
