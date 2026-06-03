@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 ## Two Pointers
 |  |
@@ -1184,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3858-minimum-bitwise-or-from-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Linked List
@@ -2303,6 +2305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3904-smallest-stable-index-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Combinatorics
 |  |
 | ------- |
