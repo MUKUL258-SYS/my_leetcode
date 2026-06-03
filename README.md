@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3640-trionic-array-ii) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3362-zero-array-transformation-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3362-zero-array-transformation-iii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3606-coupon-code-validator) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3675-minimum-operations-to-transform-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3681-maximum-xor-of-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3681-maximum-xor-of-subsequences) |
@@ -1724,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3709-design-exam-scores-tracker](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
