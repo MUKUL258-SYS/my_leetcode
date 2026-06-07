@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3905-multi-source-flood-fill](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 ## Two Pointers
 |  |
