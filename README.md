@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-count-bowl-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3676-count-bowl-subarrays) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3681-maximum-xor-of-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3681-maximum-xor-of-subsequences) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1853,6 +1854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3681-maximum-xor-of-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3681-maximum-xor-of-subsequences) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -2252,6 +2254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3597-partition-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3842-toggle-light-bulbs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
