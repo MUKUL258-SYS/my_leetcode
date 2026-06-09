@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-count-bowl-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3676-count-bowl-subarrays) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3681-maximum-xor-of-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3681-maximum-xor-of-subsequences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3698-split-array-with-minimum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3698-split-array-with-minimum-difference) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3675-minimum-operations-to-transform-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3681-maximum-xor-of-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3681-maximum-xor-of-subsequences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
