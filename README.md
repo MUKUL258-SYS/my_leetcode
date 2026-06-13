@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2784-check-if-array-is-good) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2906-construct-product-matrix) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
