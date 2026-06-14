@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2741-special-permutations) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
+| [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
 | [2784-check-if-array-is-good](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
@@ -1542,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
 | [2784-check-if-array-is-good](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -2259,6 +2262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2587-design-memory-allocator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2587-design-memory-allocator) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3100-water-bottles-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3100-water-bottles-ii) |
