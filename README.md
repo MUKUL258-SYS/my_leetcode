@@ -866,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2741-special-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2741-special-permutations) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
@@ -1352,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-substring-xor-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2564-substring-xor-queries) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2833-furthest-point-from-origin](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -1545,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2784-check-if-array-is-good](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -2047,6 +2050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3669-balanced-k-factor-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3669-balanced-k-factor-decomposition) |
