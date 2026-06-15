@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
 | [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
+| [2768-number-of-black-blocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2768-number-of-black-blocks) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -1550,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [2768-number-of-black-blocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2768-number-of-black-blocks) |
 | [2784-check-if-array-is-good](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -2386,6 +2388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
+| [2768-number-of-black-blocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2768-number-of-black-blocks) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
