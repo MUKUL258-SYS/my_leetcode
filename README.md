@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2564-substring-xor-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2564-substring-xor-queries) |
 | [2574-count-subarrays-with-median-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2574-count-subarrays-with-median-k) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2587-design-memory-allocator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2587-design-memory-allocator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2615-sum-of-distances](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2615-sum-of-distances) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
