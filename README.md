@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -1224,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Linked List
@@ -1452,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Hash Table
 |  |
 | ------- |
@@ -1630,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Stack
 |  |
 | ------- |
