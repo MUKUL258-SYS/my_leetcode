@@ -1,52 +1,46 @@
 class Solution {
 public:
 int n;
-vector<vector<int>>grid;
-int dfs2(int i,int j,vector<vector<int>>&dp){
-    if(i==n-1&&j==n-1)return 0;
-     if(i>=n||j>=n ||i<=j||i<0)return -1e9;
-    if(dp[i][j]!=-1)return dp[i][j];
-    //vis[i][j]=true;
-   int ans=0;
-      ans=max(ans,dfs2(i+1,j+1,dp));
-      ans=max(ans,dfs2(i,j+1,dp));
-      ans=max(ans,dfs2(i-1,j+1,dp));
-      return dp[i][j]=ans+grid[i][j];
+vector<vector<int>>v;
+bool helper(int x,int y,vector<vector<int>>&vis){
+    if(x==y)return false;
+    if(x<0||x>=n||y<0||y>=n||vis[x][y])return false;
+    return true;
 }
-int dfs1(int i,int j,vector<vector<int>>&dp){
-    if(i==n-1&&j==n-1)return 0;
-    if (i >= n || j >= n || j <= i || j < 0) return -1e9;
-    if(dp[i][j]!=-1)return dp[i][j];
-    //vis[i][j]=true;
-   int ans=0;
-      ans=max(ans,dfs1(i+1,j-1,dp));
-      ans=max(ans,dfs1(i+1,j+1,dp));
-      ans=max(ans,dfs1(i+1,j,dp));
-      return dp[i][j]=ans+grid[i][j];
+int dfs(int x,int y,vector<vector<int>>&dp){
+    if(x==n-1 && y==n-1)return 0;
+    if(y<0||y>=n||x>=y)return -1e9;
+    if(dp[x][y]!=-1)return dp[x][y];
+   int cost=v[x][y];
+   int a=dfs(x+1,y,dp);
+   int b=dfs(x+1,y-1,dp);
+   int c=dfs(x+1,y+1,dp);
+   return dp[x][y]=cost+max({a,b,c});
+
 }
-    int maxCollectedFruits(vector<vector<int>>& grid) {
-        this->grid=grid;
-        n=grid.size();
-        int sum=grid[n-1][n-1];
-        int i=n-2;
-        int j=n-2;
-      //  set<pair<int,int>>s;
-      vector<vector<int>>vis(n,vector<int>(n,false));
-       vector<vector<int>>dp(n,vector<int>(n,-1));
-     dp[n-1][n-1]=grid[n-1][n-1];
-        while(i>=0&&j>=0){
-             // cout<<i<<" "<<j<<endl;
-            sum+=grid[i][j];
-            //s.insert({i,j});
-            vis[i][j]=true;
-            dp[i][j]=grid[i][j]+dp[i+1][j+1];
-            i--;
-            j--;
-            
+int dfs2(int x,int y,vector<vector<int>>&dp){
+if(x==n-1 && y==n-1)return 0;
+   if(x<0||x>=n||y>=x)return -1e9;
+    if(dp[x][y]!=-1)return dp[x][y];
+   int cost=v[x][y];
+  
+   int a=dfs2(x+1,y+1,dp);
+   int b=dfs2(x,y+1,dp);
+   int c=dfs2(x-1,y+1,dp);
+   return dp[x][y]=cost+max({a,b,c});
+
+}
+    int maxCollectedFruits(vector<vector<int>>& fruits) {
+        n=fruits.size();
+        v=fruits;
+        int cost=0;
+        for(int i=0;i<n;i++){
+            cost+=fruits[i][i];
         }
-     sum+=dfs1(0,n-1,dp);
-     sum+=dfs2(n-1,0,dp);
-     return sum;
-       
+        vector<vector<int>>dp1(n,vector<int>(n,-1));
+         cost+=dfs(0,n-1,dp1);
+          vector<vector<int>>dp2(n,vector<int>(n,-1));
+        int vx=dfs2(n-1,0,dp2);
+        return cost+vx;
     }
 };
