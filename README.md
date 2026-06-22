@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1770,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
