@@ -1302,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -1505,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
@@ -2485,6 +2487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
