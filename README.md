@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3838-weighted-word-mapping](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3858-minimum-bitwise-or-from-grid) |
@@ -1441,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3844-longest-almost-palindromic-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3844-longest-almost-palindromic-substring) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1663,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 | [3829-design-ride-sharing-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3829-design-ride-sharing-system) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3839-number-of-prefix-connected-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3866-first-unique-even-element) |
@@ -2222,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3805-count-caesar-cipher-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3839-number-of-prefix-connected-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
