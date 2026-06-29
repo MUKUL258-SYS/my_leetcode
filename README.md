@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2228-watering-plants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2228-watering-plants-ii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1184,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
@@ -1568,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2284-sender-with-largest-word-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -2209,6 +2212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2833-furthest-point-from-origin](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2833-furthest-point-from-origin) |
