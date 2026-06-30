@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2860-happy-students](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2860-happy-students) |
 | [2906-construct-product-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2906-construct-product-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
+| [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -2458,6 +2459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2768-number-of-black-blocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2768-number-of-black-blocks) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2860-happy-students](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2860-happy-students) |
+| [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
