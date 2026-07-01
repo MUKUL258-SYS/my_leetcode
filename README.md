@@ -1456,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4019-remove-k-balanced-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4019-remove-k-balanced-substrings) |
 ## Union Find
 |  |
@@ -2012,6 +2013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -2518,6 +2520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2640,6 +2643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Rolling Hash
 |  |
 | ------- |
