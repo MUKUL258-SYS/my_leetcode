@@ -1761,6 +1761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2587-design-memory-allocator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2587-design-memory-allocator) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3678-design-task-manager](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3678-design-task-manager) |
 | [3709-design-exam-scores-tracker](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3709-design-exam-scores-tracker) |
@@ -2006,6 +2007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
 | [2803-modify-graph-edge-weights](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2803-modify-graph-edge-weights) |
@@ -2530,6 +2532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -2658,6 +2661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3310-remove-methods-from-project](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
