@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0492-construct-the-rectangle) |
 | [0593-valid-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
