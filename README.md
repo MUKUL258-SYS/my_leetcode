@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
@@ -2566,6 +2567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
