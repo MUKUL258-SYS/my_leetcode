@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
