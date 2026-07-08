@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
@@ -1221,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -1841,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -2437,6 +2441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2381-shifting-letters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2381-shifting-letters-ii) |
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
+| [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
