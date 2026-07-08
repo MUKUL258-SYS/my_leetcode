@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2008-maximum-earnings-from-taxi](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2029-stone-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2029-stone-game-ix) |
 | [2035-count-sub-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2035-count-sub-islands) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2008-maximum-earnings-from-taxi](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2008-maximum-earnings-from-taxi](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2050-parallel-courses-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -1597,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1980-find-unique-binary-string) |
+| [2008-maximum-earnings-from-taxi](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -1837,6 +1841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2008-maximum-earnings-from-taxi](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
