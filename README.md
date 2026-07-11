@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2266-count-number-of-texts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2266-count-number-of-texts) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2266-count-number-of-texts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2266-count-number-of-texts) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -1416,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2266-count-number-of-texts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2266-count-number-of-texts) |
 | [2284-sender-with-largest-word-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2288-apply-discount-to-prices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2288-apply-discount-to-prices) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -1616,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2261-k-divisible-elements-subarrays) |
+| [2266-count-number-of-texts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2266-count-number-of-texts) |
 | [2284-sender-with-largest-word-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2295-replace-elements-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2295-replace-elements-in-an-array) |
