@@ -8,7 +8,7 @@ public:
             if(s[i]==ch)i++;
             i=max(i,j+1);
             if(s[j]==ch)j++;
-            if(i==n||j==n)return true;
+            if(i==n)return true;
         }
         return false;
     }
