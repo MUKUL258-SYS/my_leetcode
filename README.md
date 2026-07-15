@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0986-interval-list-intersections) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1095-two-city-scheduling) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1328-break-a-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1328-break-a-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1361,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1189-maximum-number-of-balloons](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -2725,6 +2729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -2733,6 +2738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
