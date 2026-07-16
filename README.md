@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3843-first-element-with-unique-frequency) |
+| [3850-count-sequences-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3850-count-sequences-to-k) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3866-first-unique-even-element](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3817-maximum-containers-on-a-ship](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3828-final-element-after-subarray-deletions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3831-find-x-value-of-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3850-count-sequences-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3850-count-sequences-to-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3831-find-x-value-of-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3844-longest-almost-palindromic-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3844-longest-almost-palindromic-substring) |
+| [3850-count-sequences-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3850-count-sequences-to-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Depth-First Search
@@ -1546,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3669-balanced-k-factor-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3669-balanced-k-factor-decomposition) |
 | [3765-complete-prime-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3765-complete-prime-number) |
+| [3850-count-sequences-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3850-count-sequences-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
@@ -2678,6 +2682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3850-count-sequences-to-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3850-count-sequences-to-k) |
 ## String Matching
 |  |
 | ------- |
