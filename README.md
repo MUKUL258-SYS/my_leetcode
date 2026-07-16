@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1952-three-divisors) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -1213,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1946-largest-number-after-mutating-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1946-largest-number-after-mutating-substring) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1975-maximum-matrix-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2029-stone-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2029-stone-game-ix) |
@@ -1939,6 +1941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Bit Manipulation
 |  |
