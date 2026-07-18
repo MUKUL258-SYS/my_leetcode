@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3795-zero-array-transformation-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3797-design-spreadsheet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3797-design-spreadsheet) |
 | [3804-number-of-centered-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3805-count-caesar-cipher-pairs) |
@@ -1305,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximum-score-after-binary-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
