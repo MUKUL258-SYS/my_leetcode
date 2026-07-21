@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
