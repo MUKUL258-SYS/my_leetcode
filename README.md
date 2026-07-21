@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -2084,6 +2085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
 | [2803-modify-graph-edge-weights](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -2442,6 +2444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3100-water-bottles-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3100-water-bottles-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
