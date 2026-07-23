@@ -1492,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3412-find-mirror-score-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1713,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
+| [3412-find-mirror-score-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3488-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -1804,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2296-design-a-text-editor) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3412-find-mirror-score-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3676-count-bowl-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3676-count-bowl-subarrays) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
@@ -2455,6 +2458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3100-water-bottles-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3379-transformed-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3379-transformed-array) |
+| [3412-find-mirror-score-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3597-partition-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3597-partition-string) |
