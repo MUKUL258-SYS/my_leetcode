@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3468-find-the-number-of-copy-arrays) |
@@ -1558,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -2585,6 +2588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -2661,6 +2665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
