@@ -1031,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1034-coloring-a-border](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1034-coloring-a-border) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1034-coloring-a-border](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1034-coloring-a-border) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -1613,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1189-maximum-number-of-balloons](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -2279,6 +2282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1040-maximum-binary-tree-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1040-maximum-binary-tree-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
@@ -2411,6 +2415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1040-maximum-binary-tree-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1040-maximum-binary-tree-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
