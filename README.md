@@ -941,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2444-longest-ideal-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1268,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -1473,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2564-substring-xor-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2564-substring-xor-queries) |
