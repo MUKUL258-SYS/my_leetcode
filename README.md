@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
