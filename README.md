@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2381-shifting-letters-ii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -1928,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -2040,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2478-longest-nice-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -2694,6 +2697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2478-longest-nice-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2478-longest-nice-subarray) |
