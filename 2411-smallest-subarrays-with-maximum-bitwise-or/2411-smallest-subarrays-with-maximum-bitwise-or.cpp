@@ -2,17 +2,21 @@ class Solution {
 public:
     vector<int> smallestSubarrays(vector<int>& nums) {
         int n=nums.size();
-        vector<int>res(n,1);
-        for(int i=0;i<n;i++){
-            int curr=nums[i];
-            int prev=i-1;
-            while(prev>=0  && ((nums[prev]|curr) != nums[prev])){
-                 nums[prev]=nums[prev]|curr;
-                 res[prev]=i-prev+1;
-                 prev--;
+        vector<int>ans(n);
+        vector<int>last(30,-1);
+        for(int i=n-1;i>=0;i--){
+           unsigned long long x=nums[i];
+            bitset<30>X(x);
+            int maxi=i;
+            for(int k=0;k<30;k++){
+                if(X[k]){
+                    last[k]=i;
+                }
+                maxi=max(maxi,last[k]);
+
             }
-           // res[i]=i-prev+1;
+            ans[i]=maxi-i+1;
         }
-        return res;
+        return ans;
     }
 };
