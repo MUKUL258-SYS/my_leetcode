@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3531-count-covered-buildings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1518,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3597-partition-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3597-partition-string) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
@@ -2736,6 +2738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Binary Search Tree
 |  |
