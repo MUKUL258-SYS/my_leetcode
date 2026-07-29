@@ -1,30 +1,34 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-        vector<int>last(26);
+        vector<int>last(26,0);
+        int k=0;
+        for(auto ch:s){
+            last[ch-'a']=k;
+            k++;
+        }
         int n=s.size();
-        for(int i=0;i<n;i++){
-            last[s[i]-'a']=i;
-        }
-        vector<bool>used(26,false);
         stack<char>st;
+        unordered_map<char,int>mp;
         for(int i=0;i<n;i++){
-            if(used[s[i]-'a'])continue;
-
-            while(!st.empty()&&(st.top()>s[i])&&last[st.top()-'a']>i){
-                char ch=st.top();
-                used[ch-'a']=false;
+            if(mp[s[i]]>0)continue;
+            while(!st.empty() && s[i]<st.top() && last[st.top()-'a']>i){
+                mp[st.top()]=0;
                 st.pop();
+              
             }
-            used[s[i]-'a']=true;
-            st.push(s[i]);
+           if(mp[s[i]]==0){st.push(s[i]);
+                mp[s[i]]++;
+           }
         }
-        string ans="";
-        while(!st.empty()){
-            ans+=st.top();
+        string res="";
+        while(st.size()){
+            res+=st.top();
             st.pop();
         }
-        reverse(ans.begin(),ans.end());
-        return ans;
+        
+        reverse(res.begin(),res.end());
+        
+        return res;
     }
 };
