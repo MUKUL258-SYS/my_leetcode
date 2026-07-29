@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-count-bowl-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3676-count-bowl-subarrays) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3681-maximum-xor-of-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3681-maximum-xor-of-subsequences) |
+| [3686-number-of-stable-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3686-number-of-stable-subsequences) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3660-jump-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3686-number-of-stable-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3686-number-of-stable-subsequences) |
 | [3693-climbing-stairs-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
