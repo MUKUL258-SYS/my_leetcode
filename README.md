@@ -1401,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0763-special-binary-string) |
 | [0796-rotate-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0856-score-of-parentheses) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0916-decoded-string-at-index](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0916-decoded-string-at-index) |
 | [0953-verifying-an-alien-dictionary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -1811,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0856-score-of-parentheses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0916-decoded-string-at-index](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0916-decoded-string-at-index) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
