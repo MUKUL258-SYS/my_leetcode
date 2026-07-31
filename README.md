@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
@@ -1304,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1505,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -1728,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -2373,6 +2377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2833-furthest-point-from-origin](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
