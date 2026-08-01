@@ -2,19 +2,21 @@ class Solution {
 public:
 bool helper(int len,int freq,string s){
    int n=s.size();
-   unordered_map<string,int>mp;
-   for(int i=0;i<n;i++){
-        mp[s.substr(i,len)]++;
-   }
-   for(auto i:mp){
-    if(i.second<3)continue;
-    set<char>st;
-    for(auto j:i.first){
-        st.insert(j);
+   int clen=0;
+   unordered_map<char,int>mp;
+  for(int i=0;i<n;i++){
+    if(i==0 || s[i]==s[i-1]){
+       clen++;
     }
-    if(st.size()==1)return true;
-   }
-   return false;
+    else{
+        clen=1;
+    }
+    if(clen>=len){
+      mp[s[i]]++;
+      if(mp[s[i]]>=3)return true;
+    }
+  }
+  return false;
 }
     int maximumLength(string s) {
         int n=s.size();
