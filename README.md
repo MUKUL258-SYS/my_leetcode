@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
@@ -2066,6 +2067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2741-special-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2741-special-permutations) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
