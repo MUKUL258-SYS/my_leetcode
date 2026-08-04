@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -1792,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3750-closest-equal-element-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
@@ -2092,6 +2094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3681-maximum-xor-of-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3681-maximum-xor-of-subsequences) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -2611,6 +2614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3904-smallest-stable-index-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3904-smallest-stable-index-ii) |
