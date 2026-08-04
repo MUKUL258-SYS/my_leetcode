@@ -1564,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3844-longest-almost-palindromic-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3844-longest-almost-palindromic-substring) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3853-merge-close-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3853-merge-close-characters) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -1810,6 +1811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3842-toggle-light-bulbs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3843-first-element-with-unique-frequency) |
+| [3853-merge-close-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3853-merge-close-characters) |
 | [3866-first-unique-even-element](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
