@@ -906,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1191-k-concatenation-maximum-sum) |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
