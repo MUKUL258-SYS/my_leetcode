@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2860-happy-students](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2860-happy-students) |
@@ -1904,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1965,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
