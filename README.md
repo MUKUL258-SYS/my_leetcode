@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
 | [2860-happy-students](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2860-happy-students) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2906-construct-product-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2906-construct-product-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -1516,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
