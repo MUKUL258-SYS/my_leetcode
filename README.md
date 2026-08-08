@@ -2096,6 +2096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3133-minimum-array-end](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3133-minimum-array-end) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
