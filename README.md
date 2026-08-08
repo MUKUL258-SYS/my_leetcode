@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
@@ -2171,6 +2172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3362-zero-array-transformation-iii) |
@@ -2721,6 +2723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3620-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3620-network-recovery-pathways) |
@@ -2862,6 +2865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3310-remove-methods-from-project](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3607-power-grid-maintenance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3607-power-grid-maintenance) |
