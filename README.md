@@ -1511,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2564-substring-xor-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2564-substring-xor-queries) |
@@ -1732,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2540-minimum-common-value](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2540-minimum-common-value) |
 | [2543-most-popular-video-creator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2543-most-popular-video-creator) |
 | [2564-substring-xor-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2564-substring-xor-queries) |
@@ -2412,6 +2414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2833-furthest-point-from-origin](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
