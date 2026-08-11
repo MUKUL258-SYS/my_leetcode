@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1022-unique-paths-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1034-coloring-a-border) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1020-longest-turbulent-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
@@ -1663,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
@@ -1940,6 +1943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
