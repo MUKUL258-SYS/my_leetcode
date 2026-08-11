@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3194-find-words-containing-character) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
+| [3208-alternating-groups-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3208-alternating-groups-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -2770,6 +2771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3208-alternating-groups-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
