@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
+| [1912-design-movie-rental-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1912-design-movie-rental-system) |
 | [1914-cyclically-rotating-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -1712,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1912-design-movie-rental-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1912-design-movie-rental-system) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -1910,6 +1912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1600-throne-inheritance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1600-throne-inheritance) |
 | [1775-design-an-ordered-stream](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1912-design-movie-rental-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1912-design-movie-rental-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -1929,6 +1932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0931-maximum-frequency-stack](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1470-tweet-counts-per-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1470-tweet-counts-per-frequency) |
+| [1912-design-movie-rental-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1912-design-movie-rental-system) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
@@ -2175,6 +2179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1879-maximum-score-from-removing-stones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
+| [1912-design-movie-rental-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1912-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
