@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3429-paint-house-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3429-paint-house-iv) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3429-paint-house-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3429-paint-house-iv) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3538-merge-operations-for-minimum-travel-time) |
