@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3429-paint-house-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3429-paint-house-iv) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3404-count-special-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3404-count-special-subsequences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3468-find-the-number-of-copy-arrays) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3429-paint-house-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3429-paint-house-iv) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
@@ -2677,6 +2681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Enumeration
