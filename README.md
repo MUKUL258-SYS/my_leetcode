@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1095-two-city-scheduling) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1138-grumpy-bookstore-owner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1139-largest-1-bordered-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1169-invalid-transactions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1169-invalid-transactions) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1139-largest-1-bordered-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -2246,6 +2248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-unique-paths-iii) |
 | [1034-coloring-a-border](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1034-coloring-a-border) |
+| [1139-largest-1-bordered-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1139-largest-1-bordered-square) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
