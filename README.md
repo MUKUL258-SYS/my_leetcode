@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2860-happy-students](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2860-happy-students) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2540-minimum-common-value) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
@@ -1775,6 +1778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2845-count-of-interesting-subarrays) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -2007,6 +2011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -2443,6 +2448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2833-furthest-point-from-origin](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
