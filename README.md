@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0089-gray-code) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0097-interleaving-string) |
@@ -2688,6 +2690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0062-unique-paths) |
 | [0956-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0956-number-of-music-playlists) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
