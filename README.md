@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0924-minimize-malware-spread) |
+| [0932-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0932-beautiful-array) |
 | [0934-shortest-bridge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0934-shortest-bridge) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0840-magic-squares-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0932-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0932-beautiful-array) |
 | [0956-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0956-number-of-music-playlists) |
 | [0957-prison-cells-after-n-days](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0963-three-equal-parts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0963-three-equal-parts) |
@@ -2362,6 +2364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0372-super-pow) |
 | [0761-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0932-beautiful-array) |
 | [0968-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
