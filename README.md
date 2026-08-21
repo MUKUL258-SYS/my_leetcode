@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0239-sliding-window-maximum) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0279-perfect-squares) |
@@ -2240,6 +2243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2947,6 +2951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0721-accounts-merge) |
 | [0886-possible-bipartition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0924-minimize-malware-spread) |
