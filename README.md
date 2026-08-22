@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0066-plus-one) |
@@ -2318,6 +2319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0093-restore-ip-addresses) |
