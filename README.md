@@ -1077,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0721-accounts-merge) |
 | [0770-couples-holding-hands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0770-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -1154,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0752-open-the-lock) |
 | [0770-couples-holding-hands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0770-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -2916,6 +2918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -2961,6 +2964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0924-minimize-malware-spread) |
 | [1202-smallest-string-with-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -3000,4 +3004,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0005-longest-palindromic-substring) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
