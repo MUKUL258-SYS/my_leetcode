@@ -1366,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
@@ -1576,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
