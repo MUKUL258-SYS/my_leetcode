@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0815-bus-routes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0815-bus-routes) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0826-most-profit-assigning-work](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0840-magic-squares-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0696-count-binary-substrings) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0826-most-profit-assigning-work](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0923-3sum-with-multiplicity](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0962-maximum-width-ramp](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0962-maximum-width-ramp) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0761-special-binary-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0826-most-profit-assigning-work](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0923-3sum-with-multiplicity](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -1285,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0770-couples-holding-hands) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0797-rabbits-in-forest](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -2004,6 +2008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
+| [0826-most-profit-assigning-work](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
