@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0840-magic-squares-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0920-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0920-number-of-music-playlists) |
 | [0932-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0932-beautiful-array) |
 | [0956-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0956-number-of-music-playlists) |
 | [0957-prison-cells-after-n-days](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0957-prison-cells-after-n-days) |
@@ -934,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0920-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0920-number-of-music-playlists) |
 | [0956-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0956-number-of-music-playlists) |
 | [1012-numbers-with-repeated-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1020-longest-turbulent-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1020-longest-turbulent-subarray) |
@@ -2735,6 +2737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0920-number-of-music-playlists) |
 | [0956-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0956-number-of-music-playlists) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
