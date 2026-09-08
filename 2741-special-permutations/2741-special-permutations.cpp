@@ -1,31 +1,33 @@
 class Solution {
 public:
-int dp[14][1<<14];
-int mod=1e9+7;
 int n;
-int dfs(int prev,int mask,vector<int>&nums){
-    if(mask==(1<<n)-1){
+int dp[1<<16][16];
+static const int mod=1e9+7;
+vector<int>nums;
+int dfs(int mask,int prev){
+    if(mask==((1<<n)-1)){
         return 1;
     }
-    if(prev!=-1&&dp[prev][mask]!=-1)return dp[prev][mask];
+    if(dp[mask][prev]!=-1)return dp[mask][prev];
     int ans=0;
     for(int i=0;i<n;i++){
-        if((mask&(1<<i)))continue;
-        int v1,v2;
-       if(prev>=0)v1=nums[i]%nums[prev];
-       if(prev>=0)v2=nums[prev]%nums[i];
-    if(prev==-1||v1==0||v2==0){
-     ans=(ans+dfs(i,mask|(1<<i),nums))%mod;;
+        if(mask&(1<<i))continue;
+        if((nums[i]%nums[prev]==0)||(nums[prev]%nums[i]==0)){
+            int newmask=mask;
+            ans=(ans+dfs(newmask|(1<<i),i))%mod;
+        }
     }
-       
-    }
-    if(prev!=-1)dp[prev][mask]=ans;
-    return ans;
-
+    return  dp[mask][prev]=ans;
 }
     int specialPerm(vector<int>& nums) {
         n=nums.size();
+        this->nums=nums;
         memset(dp,-1,sizeof(dp));
-        return dfs(-1,0,nums);
+        int ans=0;
+        for(int i=0;i<n;i++){
+            ans=(ans+dfs((1<<i),i))%mod;
+        }
+        //return dfs(0,0);
+         return ans;
     }
 };
