@@ -1,18 +1,32 @@
 class Solution {
 public:
+int d1,d2,r1,r2; 
+bool helper(long long time){
+    long long deliveries1=time-(time/r1);
+    long long deliveries2=time-(time/r2);
+    if(deliveries1<d1)return false;
+    if(deliveries2<d2)return false;
+
+    long long commond=lcm(r1,r2);
+
+    return d1+d2 <= (time-(time/commond));
+}
     long long minimumTime(vector<int>& d, vector<int>& r) {
-        long long low=0;
-        long long high=1e18;
-        while(low<=high){
-            long long mid=low+(high-low)/2;
-            long long x1=mid-(mid/r[0]);
-            long long x2=mid-(mid/r[1]);
-            long long x3=mid-(mid/r[0]+mid/r[1]-mid/lcm(r[1],r[0]));
-            if(x1>=d[0]&&x2>=d[1]&&(x1+x2-x3>=(d[0]+d[1]))){
-                high=mid-1;
+        long long s=0;
+        long long e=1e18;
+        d1=d[0];
+        d2=d[1];
+        r1=r[0];
+        r2=r[1];
+        long long ans=e;
+        while(s<=e){
+            long long mid=(s+e)/2;
+            if(helper(mid)){
+                ans=mid;
+                e=mid-1;
             }
-            else low=mid+1;
+            else s=mid+1;
         }
-        return low;
+        return ans;
     }
 };
