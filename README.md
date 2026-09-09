@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-circle-and-rectangle-overlapping](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -1311,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1652-minimum-suffix-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -2031,6 +2035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1562-find-latest-group-of-size-m](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -2234,6 +2239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1879-maximum-score-from-removing-stones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1879-maximum-score-from-removing-stones) |
