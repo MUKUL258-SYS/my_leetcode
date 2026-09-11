@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-finish-time-of-tasks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3965-finish-time-of-tasks-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4015-weighted-sum-of-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4015-weighted-sum-of-a-tree) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 ## Two Pointers
 |  |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3729-unit-conversion-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3809-properties-graph) |
 | [3965-finish-time-of-tasks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3965-finish-time-of-tasks-i) |
+| [4015-weighted-sum-of-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4015-weighted-sum-of-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2482,6 +2484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3965-finish-time-of-tasks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3965-finish-time-of-tasks-i) |
+| [4015-weighted-sum-of-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4015-weighted-sum-of-a-tree) |
 ## Counting
 |  |
 | ------- |
