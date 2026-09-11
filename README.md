@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4015-weighted-sum-of-a-tree) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 ## Two Pointers
 |  |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
 | [3965-finish-time-of-tasks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3965-finish-time-of-tasks-i) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2098,6 +2100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Monotonic Stack
 |  |
@@ -2362,6 +2365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3858-minimum-bitwise-or-from-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3905-multi-source-flood-fill](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3905-multi-source-flood-fill) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Backtracking
 |  |
 | ------- |
