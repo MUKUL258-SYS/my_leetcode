@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3965-finish-time-of-tasks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3965-finish-time-of-tasks-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 ## Two Pointers
 |  |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3814-maximum-capacity-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3814-maximum-capacity-within-budget) |
 | [3844-longest-almost-palindromic-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3844-longest-almost-palindromic-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Sorting
 |  |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3814-maximum-capacity-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3814-maximum-capacity-within-budget) |
 | [3842-toggle-light-bulbs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
 |  |
 | ------- |
@@ -1428,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Linked List
