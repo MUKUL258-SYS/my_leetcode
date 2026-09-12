@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -2004,6 +2005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1912-design-movie-rental-system) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -2062,6 +2064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -2428,6 +2431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3537-fill-a-special-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -2555,12 +2559,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3454-separate-squares-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -3040,6 +3046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Radix Sort
 |  |
