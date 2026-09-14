@@ -46,7 +46,7 @@ bool dfs(int src,int time ,unordered_map<int,int>&path,vector<bool>& vis){
                 inc+=(amount[node]/2);
             }
         }
-        if(adj[node].size()==1 && node!=0)
+        if(adj[node].size()==1 && node!=0 )
         ans=max(ans,inc);
         
         for(auto nei:adj[node]){
