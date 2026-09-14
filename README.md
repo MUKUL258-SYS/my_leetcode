@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2478-longest-nice-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2483-task-scheduler-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-task-scheduler-ii) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1227,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -2481,6 +2484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2505-number-of-good-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2505-number-of-good-paths) |
@@ -2996,6 +3000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2392-build-a-matrix-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
