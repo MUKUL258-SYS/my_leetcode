@@ -1,29 +1,35 @@
 class Solution {
 public:
-    int shortestPathLength(vector<vector<int>>& graph) {
-        int n=graph.size();
-        if(n==1)return 0;
-        int maxi=(1<<n)-1;
+    int shortestPathLength(vector<vector<int>>& gr) {
+         int n=gr.size();
         vector<vector<bool>>vis(n,vector<bool>(1<<n,false));
-        queue<tuple<int,int,int>>q;
+        //int n=gr.size();
+        queue<pair<int,int>>q;
         for(int i=0;i<n;i++){
-            int mask=(1<<i);
-            q.emplace(i,mask,0);
-            vis[i][mask]=true;
+            q.push({i,(1<<i)});
+            vis[i][1<<i]=true;
         }
+        
+        int steps=0;
+        int target=(1<<n)-1;
         while(!q.empty()){
-            auto [node,mask,dist]=q.front();
+            int sz=q.size();
+            while(sz--){
+            auto [node,mask]=q.front();
             q.pop();
-            if(mask==maxi)return dist;
-            for(auto nei:graph[node]){
-               int newmask=mask|(1<<nei);
-               if(!vis[nei][newmask]){
-                q.emplace(nei,newmask,dist+1);
-                vis[nei][newmask]=true;
-               }
+            if(mask==target)return steps;
+           
+            for(auto nei:gr[node]){
+                int newmask=mask|(1<<nei);
+                if(!vis[nei][newmask]){
+                    vis[nei][newmask]=true;
+                    q.push({nei,newmask});
+                }
             }
         }
-        return -1;
+            steps++;
+        }
+        return 0;
 
     }
 };
