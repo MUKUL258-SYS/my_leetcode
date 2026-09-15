@@ -1,18 +1,19 @@
 class Solution {
 public:
     long long minimumReplacement(vector<int>& nums) {
-        vector<int>t=nums;
-        sort(t.begin(),t.end());
-        if(t==nums)return 0;
-        int n=nums.size();
-        long long res=0;
-        for(int i=n-2;i>=0;i--){
-           if(nums[i]<=nums[i+1])continue;
-           int parts=ceil(nums[i]/((1.0)*(nums[i+1])));
-           //cout<<parts<<endl;
-           res+=(parts-1);
-           nums[i]=(nums[i]/parts);
+       long long ans=0;
+       int l=nums.back();
+       int n=nums.size();
+       for(int i=n-2;i>=0;i--){
+        if(nums[i]<=l){
+            l=nums[i];
+            continue;
         }
-        return res;
+         //int rem=nums[i]%l;
+         double k=ceil(nums[i]/(l*(1.0)));
+        ans+=(k-1);
+        l=floor(nums[i]/k);
+       } 
+       return ans;
     }
 };
