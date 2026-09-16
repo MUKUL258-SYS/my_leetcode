@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
 | [3965-finish-time-of-tasks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3965-finish-time-of-tasks-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -1922,6 +1923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Stack
 |  |
@@ -2562,6 +2564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
+| [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
