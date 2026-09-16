@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3959-check-good-integer](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3959-check-good-integer) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -2683,6 +2684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3959-check-good-integer](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3959-check-good-integer) |
 | [4019-remove-k-balanced-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4019-remove-k-balanced-substrings) |
 ## Geometry
 |  |
