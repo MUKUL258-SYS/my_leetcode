@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0474-ones-and-zeroes) |
+| [0496-next-greater-element-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0518-coin-change-ii) |
@@ -1726,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0525-contiguous-array) |
@@ -1940,6 +1942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -2127,6 +2130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0907-sum-of-subarray-minimums) |
