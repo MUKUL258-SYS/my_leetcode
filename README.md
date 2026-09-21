@@ -961,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0920-number-of-music-playlists) |
 | [0956-number-of-music-playlists](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0956-number-of-music-playlists) |
+| [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
 | [1012-numbers-with-repeated-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1020-longest-turbulent-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1124,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -2489,6 +2491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
@@ -2637,6 +2640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
@@ -3138,4 +3142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1115-print-foobar-alternately](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1115-print-foobar-alternately) |
 | [1116-print-zero-even-odd](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1116-print-zero-even-odd) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
