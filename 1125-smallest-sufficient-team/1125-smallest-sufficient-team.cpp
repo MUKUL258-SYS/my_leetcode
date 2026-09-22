@@ -53,7 +53,7 @@ public:
     int sz=INT_MAX;
     unordered_map<string,int>dp;
     void solve(int id,int mask,vector<int>&sp,vector<int>&z){
-        if(id>=n){
+        if(mask== (1<<n)-1){
             if(sz>z.size()){
                 res=z;
                 sz=z.size();
