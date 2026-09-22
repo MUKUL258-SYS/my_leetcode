@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2126-destroying-asteroids](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2126-destroying-asteroids) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2139-detect-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2139-detect-squares) |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2266-count-number-of-texts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2266-count-number-of-texts) |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2035-count-sub-islands) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1307,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
 | [2050-parallel-courses-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2050-parallel-courses-iii) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [3620-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3620-network-recovery-pathways) |
@@ -3035,6 +3039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1615-maximal-network-rank](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1615-maximal-network-rank) |
 | [2050-parallel-courses-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2050-parallel-courses-iii) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -3150,4 +3155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
