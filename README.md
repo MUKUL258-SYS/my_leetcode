@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1562-find-latest-group-of-size-m](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1562-find-latest-group-of-size-m) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1600-throne-inheritance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1600-throne-inheritance) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1237,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -2365,6 +2368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1696-strange-printer-ii) |
@@ -2986,6 +2990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Memoization
 |  |
@@ -3163,4 +3168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
