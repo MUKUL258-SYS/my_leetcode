@@ -8,18 +8,17 @@ public:
             mini=mini&nums[i];
         }
         if(mini)return 1;
-      int cnt = 0;
-        int current_and = -1; // -1 has all bits set to 1
-
-        for (int num : nums) {
-            current_and &= num;
-            
-            // Increment as soon as current subarray reaches 0
-            if (current_and == 0) {
+        int cnt=0;
+        mini=-1;
+        for(int i=0;i<n;i++){
+            if(mini==0){
                 cnt++;
-                current_and = -1; // Reset for the next subarray
+                mini=-1;
             }
+                mini=mini&nums[i];
+            
         }
-        return cnt;
+           
+        return mini==0?cnt+1:cnt;
     }
 };
