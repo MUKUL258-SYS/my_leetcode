@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2860-happy-students](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2860-happy-students) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2906-construct-product-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2906-construct-product-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
@@ -1421,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -2250,6 +2252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2741-special-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2741-special-permutations) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
