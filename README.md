@@ -1247,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1558-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1609-even-odd-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1609-even-odd-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -2537,6 +2538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1600-throne-inheritance](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1600-throne-inheritance) |
+| [1609-even-odd-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1609-even-odd-tree) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
@@ -2685,6 +2687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1609-even-odd-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
