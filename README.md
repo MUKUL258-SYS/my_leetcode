@@ -948,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0638-shopping-offers) |
 | [0647-palindromic-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
