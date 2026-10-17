@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
 | [3961-maximize-sum-of-device-ratings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3961-maximize-sum-of-device-ratings) |
 | [3965-finish-time-of-tasks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3965-finish-time-of-tasks-i) |
@@ -1109,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-minimum-cost-to-split-into-ones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3965-finish-time-of-tasks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3965-finish-time-of-tasks-i) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Depth-First Search
@@ -2167,6 +2169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Monotonic Stack
@@ -2848,6 +2851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4044-count-good-cyclic-rotations) |
 ## Combinatorics
@@ -2927,6 +2931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3829-design-ride-sharing-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3829-design-ride-sharing-system) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2989,6 +2994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4044-count-good-cyclic-rotations) |
 ## Monotonic Queue
@@ -3003,6 +3009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Counting Sort
 |  |
 | ------- |
