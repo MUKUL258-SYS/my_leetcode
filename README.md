@@ -1707,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3853-merge-close-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3853-merge-close-characters) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4019-remove-k-balanced-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4019-remove-k-balanced-substrings) |
 ## Union Find
@@ -2291,6 +2292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Brainteaser
 |  |
 | ------- |
@@ -2484,6 +2486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3669-balanced-k-factor-decomposition](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3669-balanced-k-factor-decomposition) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Trie
 |  |
 | ------- |
@@ -2904,6 +2907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Queue
