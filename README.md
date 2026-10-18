@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 | [4044-count-good-cyclic-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4045-count-robot-groups) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1975,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -2641,6 +2643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Binary Indexed Tree
 |  |
 | ------- |
