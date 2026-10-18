@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4044-count-good-cyclic-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4045-count-robot-groups) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1977,6 +1978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Stack
 |  |
 | ------- |
@@ -3000,6 +3002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4044-count-good-cyclic-rotations) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Monotonic Queue
 |  |
 | ------- |
