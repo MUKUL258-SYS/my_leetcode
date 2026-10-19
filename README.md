@@ -1183,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -2564,6 +2565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -2712,6 +2714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
