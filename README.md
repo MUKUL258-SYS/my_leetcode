@@ -1713,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3844-longest-almost-palindromic-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3844-longest-almost-palindromic-substring) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3853-merge-close-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3853-merge-close-characters) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
