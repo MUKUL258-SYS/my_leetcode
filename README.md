@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3180-maximum-total-reward-using-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3194-find-words-containing-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3194-find-words-containing-character) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3208-alternating-groups-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3208-alternating-groups-ii) |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3290-maximum-multiplication-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3290-maximum-multiplication-score) |
@@ -1454,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3151-minimum-processing-time](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3151-minimum-processing-time) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
