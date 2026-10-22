@@ -1156,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -1566,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0966-vowel-spellchecker](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0966-vowel-spellchecker) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1080-camelcase-matching](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1080-camelcase-matching) |
@@ -2486,6 +2488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0800-letter-case-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0800-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-unique-paths-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1286-iterator-for-combination](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-iterator-for-combination) |
@@ -2557,6 +2560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -2713,6 +2717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
