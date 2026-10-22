@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1946-largest-number-after-mutating-substring](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1946-largest-number-after-mutating-substring) |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1748-best-team-with-no-conflicts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2008-maximum-earnings-from-taxi](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -2270,6 +2272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-decode-xored-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1835-decode-xored-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -2494,6 +2497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -2688,6 +2692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2741-special-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2741-special-permutations) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Binary Tree
@@ -3207,6 +3212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0785-is-graph-bipartite) |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Prim's Algorithm
 |  |
 | ------- |
@@ -3245,4 +3251,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0678-valid-parenthesis-string) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Perfect Matching
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
+## Flow Network
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
