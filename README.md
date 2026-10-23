@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1632-rank-transform-of-a-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1632-rank-transform-of-a-matrix) |
+| [1642-furthest-building-you-can-reach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -1382,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1642-furthest-building-you-can-reach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1652-minimum-suffix-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -2348,6 +2350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1286-constrained-subsequence-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1642-furthest-building-you-can-reach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
