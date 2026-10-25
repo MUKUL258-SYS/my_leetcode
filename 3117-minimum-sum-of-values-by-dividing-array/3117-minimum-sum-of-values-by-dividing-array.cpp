@@ -12,7 +12,9 @@ int dfs(int i,int j,int curr){
     if(j>=m)return INT_MAX;
     if(n-i < m-j)return INT_MAX;
     if(dp[i][j].count(curr))return dp[i][j][curr];
+
     int newcurr=curr&nums[i];
+    if((newcurr & av[j])!=av[j])return dp[i][j][curr]=INT_MAX;
     int op=dfs(i+1,j,newcurr);
 
     if(newcurr ==av[j]){
