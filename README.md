@@ -1392,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1652-minimum-suffix-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1652-minimum-suffix-flips) |
@@ -1607,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-tweet-counts-per-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1547-destination-city](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1547-destination-city) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -2032,6 +2034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -3279,6 +3282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hungarian Algorithm
 |  |
 | ------- |
