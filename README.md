@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3637-trionic-array-i) |
+| [3638-maximum-balanced-shipments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3639-zero-array-transformation-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3640-trionic-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3620-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3620-network-recovery-pathways) |
+| [3638-maximum-balanced-shipments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3640-trionic-array-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3660-jump-game-ix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3660-jump-game-ix) |
@@ -1490,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3638-maximum-balanced-shipments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3675-minimum-operations-to-transform-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3681-maximum-xor-of-subsequences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3681-maximum-xor-of-subsequences) |
@@ -2059,6 +2062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-find-mirror-score-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3638-maximum-balanced-shipments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3676-count-bowl-subarrays) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -2241,6 +2245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2454-next-greater-element-iv) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3523-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3523-make-array-non-decreasing) |
+| [3638-maximum-balanced-shipments](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3676-count-bowl-subarrays) |
 | [3738-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
