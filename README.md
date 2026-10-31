@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4015-weighted-sum-of-a-tree) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [4024-nearest-available-drone](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4024-nearest-available-drone) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 | [4044-count-good-cyclic-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4045-count-robot-groups) |
@@ -2977,6 +2978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4024-nearest-available-drone](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4024-nearest-available-drone) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Queue
 |  |
