@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3508-implement-router](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3523-make-array-non-decreasing](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3523-make-array-non-decreasing) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3468-find-the-number-of-copy-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -2330,6 +2332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3599-partition-array-to-minimize-xor](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3599-partition-array-to-minimize-xor) |
@@ -2966,6 +2969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3713-longest-balanced-substring-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3713-longest-balanced-substring-i) |
