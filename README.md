@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4015-weighted-sum-of-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4015-weighted-sum-of-a-tree) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4024-nearest-available-drone](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4024-nearest-available-drone) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4042-minimum-operations-to-transform-array) |
 | [4044-count-good-cyclic-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4045-count-robot-groups) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3959-check-good-integer](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3959-check-good-integer) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -1801,6 +1803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -2019,6 +2022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Stack
@@ -3079,6 +3083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4044-count-good-cyclic-rotations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4044-count-good-cyclic-rotations) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Monotonic Queue
