@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -2867,6 +2869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -3040,6 +3043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0567-permutation-in-string) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
