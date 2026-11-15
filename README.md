@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1895-largest-magic-square) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -2396,6 +2397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1879-maximum-score-from-removing-stones](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [1882-process-tasks-using-servers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1902-car-fleet-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1902-car-fleet-ii) |
 | [1912-design-movie-rental-system](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1912-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2054-two-best-non-overlapping-events) |
