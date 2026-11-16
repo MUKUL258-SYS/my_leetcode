@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0874-walking-robot-simulation) |
 | [0879-maximize-distance-to-closest-person](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-maximize-distance-to-closest-person) |
+| [0879-profitable-schemes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-profitable-schemes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0909-snakes-and-ladders) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0879-profitable-schemes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-profitable-schemes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -3352,4 +3354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-profitable-schemes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-profitable-schemes) |
 <!---LeetCode Topics End-->
