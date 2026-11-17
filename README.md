@@ -1216,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1306,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -1909,6 +1911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2340-total-appeal-of-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -2637,6 +2640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -2792,6 +2796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
