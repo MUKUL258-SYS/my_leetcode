@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2906-construct-product-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2906-construct-product-matrix) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2931-maximum-spending-after-buying-items](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -3367,8 +3369,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-profitable-schemes) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-profitable-schemes) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
