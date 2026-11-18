@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2741-special-permutations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2741-special-permutations) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2762-continuous-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2762-continuous-subarrays) |
 | [2766-relocate-marbles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2766-relocate-marbles) |
 | [2768-number-of-black-blocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2768-number-of-black-blocks) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1797,6 +1799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2607-make-k-subarray-sums-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2607-make-k-subarray-sums-equal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -2980,6 +2983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2552-count-increasing-quadruplets](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2552-count-increasing-quadruplets) |
+| [2761-prime-pairs-with-target-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2768-number-of-black-blocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2768-number-of-black-blocks) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2860-happy-students](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2860-happy-students) |
