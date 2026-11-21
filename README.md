@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1238,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3249-count-the-number-of-good-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3310-remove-methods-from-project](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -1726,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -1976,6 +1979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -2665,6 +2669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3249-count-the-number-of-good-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
