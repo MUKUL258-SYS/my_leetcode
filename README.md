@@ -1670,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2055-plates-between-candles) |
 | [2109-adding-spaces-to-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2165-plates-between-candles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2165-plates-between-candles) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
