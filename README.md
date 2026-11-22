@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
@@ -1101,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
@@ -1498,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3012-minimize-length-of-array-using-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3035-maximum-palindromes-after-operations) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
@@ -2357,6 +2361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2939-maximum-xor-product) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
@@ -2669,6 +2674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3249-count-the-number-of-good-nodes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
