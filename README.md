@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-dice-roll-simulation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1343-dice-roll-simulation) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1364-tuple-with-same-product) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1230-maximum-of-absolute-value-expression](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-closest-divisors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1276-closest-divisors) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -2122,6 +2124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1286-iterator-for-combination](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1286-iterator-for-combination) |
 | [1294-range-frequency-queries](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1294-range-frequency-queries) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1459-apply-discount-every-n-orders](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1470-tweet-counts-per-frequency](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1472-design-browser-history](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1472-design-browser-history) |
@@ -2910,6 +2913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -3187,6 +3191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1472-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/1775-design-an-ordered-stream) |
 | [2161-stock-price-fluctuation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2161-stock-price-fluctuation) |
