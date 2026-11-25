@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [3934-smallest-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
@@ -2057,6 +2058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3926-count-valid-word-occurrences) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3934-smallest-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3960-frequency-balance-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3960-frequency-balance-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
@@ -2262,6 +2264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3919-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4073-lexicographically-smallest-string-after-reverse) |
@@ -3262,6 +3265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3934-smallest-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -3271,6 +3275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3934-smallest-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -3409,4 +3414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0879-profitable-schemes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0879-profitable-schemes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
