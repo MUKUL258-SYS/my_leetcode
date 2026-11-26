@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-count-robot-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4045-count-robot-groups) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
+| [4103-remove-elements-by-type-and-color](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2120,6 +2121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4019-remove-k-balanced-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4019-remove-k-balanced-substrings) |
 | [4045-count-robot-groups](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4045-count-robot-groups) |
+| [4103-remove-elements-by-type-and-color](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Design
 |  |
 | ------- |
