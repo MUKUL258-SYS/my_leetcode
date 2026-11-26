@@ -1790,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4019-remove-k-balanced-substrings](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4019-remove-k-balanced-substrings) |
+| [4102-count-valid-substrings-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4102-count-valid-substrings-i) |
 ## Union Find
 |  |
 | ------- |
@@ -3050,6 +3051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4024-nearest-available-drone](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4024-nearest-available-drone) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4073-lexicographically-smallest-string-after-reverse) |
+| [4102-count-valid-substrings-i](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/4102-count-valid-substrings-i) |
 ## Queue
 |  |
 | ------- |
