@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0576-out-of-boundary-paths) |
@@ -1407,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -2182,6 +2185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -2920,6 +2924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
