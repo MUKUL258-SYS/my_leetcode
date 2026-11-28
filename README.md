@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2454-next-greater-element-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2454-next-greater-element-iv) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2402-meeting-rooms-iii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2454-next-greater-element-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2454-next-greater-element-iv) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -2227,6 +2230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2454-next-greater-element-iv) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2501-longest-square-streak-in-an-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -2948,6 +2952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2381-shifting-letters-ii) |
 | [2420-find-all-good-indices](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2420-find-all-good-indices) |
 | [2439-minimize-maximum-of-array](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/MUKUL258-SYS/my_leetcode/tree/master/2529-range-product-queries-of-powers) |
